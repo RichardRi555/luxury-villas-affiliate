@@ -6,10 +6,11 @@ export const villas = [
     location: "Bali, Indonesia",
     price: "$500/night",
     rating: 4.9,
-    image: "/images/villas/villa1.jpg",
+    image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     description: "Stunning ocean view villa with private pool and beach access.",
     amenities: ["Pool", "Beach", "WiFi", "AC"],
-    region: "Asia"
+    region: "Asia",
+    affiliateLink: "https://www.youtube.com" // Test link to YouTube
   },
   {
     id: 2,
@@ -17,10 +18,11 @@ export const villas = [
     location: "Aspen, USA",
     price: "$650/night",
     rating: 4.8,
-    image: "/images/villas/villa2.jpg",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     description: "Luxurious mountain villa with panoramic views.",
     amenities: ["Spa", "Hot Tub", "Fireplace"],
-    region: "North America"
+    region: "North America",
+    affiliateLink: "https://www.instagram.com" // Test link to Instagram
   },
   {
     id: 3,

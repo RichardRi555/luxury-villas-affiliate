@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RichardRi555/luxury-villas-affiliate/static/css/main.ef88d75c.css",
-    "main.js": "/RichardRi555/luxury-villas-affiliate/static/js/main.7b274a5a.js",
+    "main.js": "/RichardRi555/luxury-villas-affiliate/static/js/main.394cdf50.js",
     "static/media/asia.jpg": "/RichardRi555/luxury-villas-affiliate/static/media/asia.9e5d6e7389763758f0db.jpg",
     "static/media/Bahia.webp": "/RichardRi555/luxury-villas-affiliate/static/media/Bahia.a9c5f7ad2bc9905b8d79.webp",
     "static/media/caribbean.jpg": "/RichardRi555/luxury-villas-affiliate/static/media/caribbean.aae176669fcde684d3df.jpg",
@@ -140,10 +140,10 @@
     "static/media/Lake Bled.webp": "/RichardRi555/luxury-villas-affiliate/static/media/Lake Bled.14636a40a29891f34601.webp",
     "index.html": "/RichardRi555/luxury-villas-affiliate/index.html",
     "main.ef88d75c.css.map": "/RichardRi555/luxury-villas-affiliate/static/css/main.ef88d75c.css.map",
-    "main.7b274a5a.js.map": "/RichardRi555/luxury-villas-affiliate/static/js/main.7b274a5a.js.map"
+    "main.394cdf50.js.map": "/RichardRi555/luxury-villas-affiliate/static/js/main.394cdf50.js.map"
   },
   "entrypoints": [
     "static/css/main.ef88d75c.css",
-    "static/js/main.7b274a5a.js"
+    "static/js/main.394cdf50.js"
   ]
 }

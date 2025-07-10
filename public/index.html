@@ -2,44 +2,71 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <base href="/" /> <!-- Critical for GitHub Pages routing -->
     
-    <!-- ✅ Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/favicon-16x16.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/site.webmanifest" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <!-- Favicons (updated to absolute paths) -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" href="/favicon.ico" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#ffffff" />
 
-    <!-- ✅ SEO -->
+    <!-- SEO -->
     <title>Luxury Villas Affiliate</title>
     <meta name="description" content="Discover luxurious villas and book your dream destination through our curated affiliate listings." />
     <meta name="keywords" content="luxury villas, travel, vacation rentals, affiliate, dream destinations" />
     <meta name="author" content="Your Name or Brand" />
 
-    <!-- ✅ Open Graph (Facebook, LinkedIn) -->
+    <!-- Open Graph -->
     <meta property="og:title" content="Luxury Villas Affiliate" />
     <meta property="og:description" content="Explore a hand-picked selection of luxury villas worldwide." />
     <meta property="og:image" content="https://www.voyavillas.com/social-preview.jpg" />
     <meta property="og:url" content="https://www.voyavillas.com/" />
     <meta property="og:type" content="website" />
 
-    <!-- ✅ Twitter Card -->
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Luxury Villas Affiliate" />
     <meta name="twitter:description" content="Explore a hand-picked selection of luxury villas worldwide." />
     <meta name="twitter:image" content="https://www.voyavillas.com/social-preview.jpg" />
 
-    <!-- ✅ Manifest and Fonts -->
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- Optional: Add Google Fonts or preload others -->
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet"> -->
   </head>
   <body class="h-screen bg-white text-gray-900">
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root" class="h-full"></div>
+
+    <!-- Critical routing script -->
+    <script>
+      // Handle redirects from 404.html
+      (function() {
+        const redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.pathname) {
+          history.replaceState(null, null, redirect);
+        }
+        
+        // Fallback for failed assets
+        document.addEventListener('error', function(e) {
+          const elem = e.target;
+          if (elem.tagName === 'SCRIPT' || elem.tagName === 'LINK') {
+            const originalSrc = elem.src || elem.href;
+            const newSrc = originalSrc.startsWith('http') ? 
+              originalSrc : 
+              '/' + originalSrc.replace(/^\//, '');
+            
+            if (originalSrc !== newSrc) {
+              elem.src = newSrc;
+              elem.href = newSrc;
+            }
+          }
+        }, true);
+      })();
+    </script>
   </body>
 </html>

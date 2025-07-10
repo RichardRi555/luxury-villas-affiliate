@@ -4,9 +4,8 @@
     <meta charset="utf-8">
     <title>Redirecting...</title>
     <script>
-      // Redirect to index.html while preserving the path
-      sessionStorage.redirect = location.pathname;
-      location.replace('/?redirect=' + encodeURIComponent(location.pathname));
+      sessionStorage.redirect = location.pathname + location.search;
+      location.replace('/?redirect=' + encodeURIComponent(location.pathname + location.search));
     </script>
   </head>
   <body>

@@ -1,17 +1,18 @@
-// // data/villas.js
-// export const villas = [
-//   {
-//     id: 1,
-//     name: "Oceanview Luxury Villa",
-//     location: "Bali, Indonesia",
-//     price: "$500/night",
-//     rating: 4.9,
-//     image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-//     description: "Stunning ocean view villa with private pool and beach access.",
-//     amenities: ["Pool", "Beach", "WiFi", "AC"],
-//     region: "Asia",
-//     affiliateLink: "https://www.youtube.com" // Test link to YouTube
-//   },
+// data/villas.js
+export const villas = [
+  {
+    id: 1,
+    name: "Oceanview Luxury Villa",
+    location: "Bali, Indonesia",
+    price: "$500/night",
+    rating: 4.9,
+    image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    description: "Stunning ocean view villa with private pool and beach access.",
+    amenities: ["Pool", "Beach", "WiFi", "AC"],
+    region: "Asia",
+    affiliateLink: "https://www.youtube.com" // Test link to YouTube
+  },
+];
 //   {
 //     id: 2,
 //     name: "Mountain Retreat Villa",

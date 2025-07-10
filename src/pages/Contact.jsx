@@ -17,13 +17,13 @@ export default function Contact() {
 
             <div className="bg-blue-600 p-4 md:p-5 rounded-lg border border-blue-700 max-w-md mx-auto md:mx-0">
               <a
-                href="mailto:your@email.com?subject=VoyaVillas Inquiry"
+                href="mailto:info@voyavillas.com?subject=VoyaVillas Inquiry"
                 className="inline-flex items-center gap-3 text-[#FAFAFA] text-base md:text-lg font-medium hover:text-blue-200 transition-colors"
               >
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 md:h-6 w-5 md:w-6 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                your@email.com
+                info@voyavillas.com
               </a>
               <p className="mt-2 text-sm md:text-base text-blue-100 max-w-sm mx-auto md:mx-0">
                 We typically respond within 24 hours. For urgent inquiries, please include <em>"URGENT"</em> in your subject line.

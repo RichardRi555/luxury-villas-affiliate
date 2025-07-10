@@ -27,7 +27,7 @@ export default function Footer() {
           <div>
             <h4 className="font-bold mb-2 md:mb-3 text-base">Contact</h4>
             <address className="text-gray-400 not-italic text-sm md:text-base leading-relaxed">
-              <p>Email: info@luxuryvillas.com</p>
+              <p>Email: info@voyavillas.com</p>
             </address>
           </div>
 

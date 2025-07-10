@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/common/Header';
 import Footer from './components/common/Footer';
@@ -11,6 +12,15 @@ import Contact from './pages/Contact';
 import Destinations from './pages/Destinations';
 
 function App() {
+  useEffect(() => {
+    // Handle redirects from 404.html
+    const redirectedPath = sessionStorage.redirect;
+    if (redirectedPath) {
+      delete sessionStorage.redirect;
+      window.history.replaceState(null, null, redirectedPath);
+    }
+  }, []);
+
   return (
     <Router basename="/">
       <div className="min-h-screen flex flex-col">

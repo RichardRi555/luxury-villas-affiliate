@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ef88d75c.css",
-    "main.js": "/static/js/main.ff60d021.js",
+    "main.js": "/static/js/main.d57a40aa.js",
     "static/media/asia.jpg": "/static/media/asia.9e5d6e7389763758f0db.jpg",
     "static/media/Bahia.webp": "/static/media/Bahia.a9c5f7ad2bc9905b8d79.webp",
     "static/media/caribbean.jpg": "/static/media/caribbean.aae176669fcde684d3df.jpg",
@@ -48,6 +48,7 @@
     "static/media/Malibu.webp": "/static/media/Malibu.81662a972f21d03e255f.webp",
     "static/media/Da Nang.webp": "/static/media/Da Nang.33b30af118a3ee5a7cc2.webp",
     "static/media/Mahe.webp": "/static/media/Mahe.befec4b07b3ac223c979.webp",
+    "static/media/maldives.webp": "/static/media/maldives.befec4b07b3ac223c979.webp",
     "static/media/Scottish Highlands.webp": "/static/media/Scottish Highlands.773c6886b90df607d045.webp",
     "static/media/Budva.webp": "/static/media/Budva.198f03a012dd3f78e52f.webp",
     "static/media/Cartagena.webp": "/static/media/Cartagena.f7e3aac6c1d5d1f94199.webp",
@@ -137,10 +138,10 @@
     "static/media/Lake Bled.webp": "/static/media/Lake Bled.14636a40a29891f34601.webp",
     "index.html": "/index.html",
     "main.ef88d75c.css.map": "/static/css/main.ef88d75c.css.map",
-    "main.ff60d021.js.map": "/static/js/main.ff60d021.js.map"
+    "main.d57a40aa.js.map": "/static/js/main.d57a40aa.js.map"
   },
   "entrypoints": [
     "static/css/main.ef88d75c.css",
-    "static/js/main.ff60d021.js"
+    "static/js/main.d57a40aa.js"
   ]
 }

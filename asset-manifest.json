@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ef88d75c.css",
-    "main.js": "/static/js/main.1829e16e.js",
+    "main.js": "/static/js/main.eac5a64b.js",
     "static/media/asia.jpg": "/static/media/asia.9e5d6e7389763758f0db.jpg",
     "static/media/Bahia.webp": "/static/media/Bahia.a9c5f7ad2bc9905b8d79.webp",
     "static/media/caribbean.jpg": "/static/media/caribbean.aae176669fcde684d3df.jpg",
@@ -13,7 +13,6 @@
     "static/media/Patagonia.webp": "/static/media/Patagonia.90f4232b9bd2c851ecf2.webp",
     "static/media/Luang Prabang.webp": "/static/media/Luang Prabang.9180550f2d5baa9f7ac2.webp",
     "static/media/Aspen.webp": "/static/media/Aspen.61c7166df205c31fd6c7.webp",
-    "static/media/amalfi-vista.webp": "/static/media/amalfi-vista.61c7166df205c31fd6c7.webp",
     "static/media/Rio de Janeiro.webp": "/static/media/Rio de Janeiro.1ab9e839a4806bda1d8d.webp",
     "static/media/Mamanuca Islands.webp": "/static/media/Mamanuca Islands.1d6126ffe1d4a45b2db6.webp",
     "static/media/Essaouira.webp": "/static/media/Essaouira.39d3cd709a8b4c3ee4b2.webp",
@@ -33,7 +32,6 @@
     "static/media/Zanzibar.webp": "/static/media/Zanzibar.4d00889ebb8d78d699f3.webp",
     "static/media/Tulum.webp": "/static/media/Tulum.fc222c32b8c859b5254d.webp",
     "static/media/Amalfi Coast.webp": "/static/media/Amalfi Coast.092865164ee182f7193a.webp",
-    "static/media/amalfi-hero.webp": "/static/media/amalfi-hero.092865164ee182f7193a.webp",
     "static/media/Riviera Maya.webp": "/static/media/Riviera Maya.b5c15af373bcd6f14691.webp",
     "static/media/Hakone.webp": "/static/media/Hakone.0f7dec7d7ee3916327c8.webp",
     "static/media/Florianópolis.webp": "/static/media/Florianópolis.e570efe2a9f2e45ff525.webp",
@@ -50,7 +48,6 @@
     "static/media/Malibu.webp": "/static/media/Malibu.81662a972f21d03e255f.webp",
     "static/media/Da Nang.webp": "/static/media/Da Nang.33b30af118a3ee5a7cc2.webp",
     "static/media/Mahe.webp": "/static/media/Mahe.befec4b07b3ac223c979.webp",
-    "static/media/maldives.webp": "/static/media/maldives.befec4b07b3ac223c979.webp",
     "static/media/Scottish Highlands.webp": "/static/media/Scottish Highlands.773c6886b90df607d045.webp",
     "static/media/Budva.webp": "/static/media/Budva.198f03a012dd3f78e52f.webp",
     "static/media/Cartagena.webp": "/static/media/Cartagena.f7e3aac6c1d5d1f94199.webp",
@@ -140,10 +137,10 @@
     "static/media/Lake Bled.webp": "/static/media/Lake Bled.14636a40a29891f34601.webp",
     "index.html": "/index.html",
     "main.ef88d75c.css.map": "/static/css/main.ef88d75c.css.map",
-    "main.1829e16e.js.map": "/static/js/main.1829e16e.js.map"
+    "main.eac5a64b.js.map": "/static/js/main.eac5a64b.js.map"
   },
   "entrypoints": [
     "static/css/main.ef88d75c.css",
-    "static/js/main.1829e16e.js"
+    "static/js/main.eac5a64b.js"
   ]
 }

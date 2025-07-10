@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content="0; url=/" />
+    <meta charset="utf-8">
     <title>Redirecting...</title>
+    <script>
+      // Redirect to index.html while preserving the path
+      sessionStorage.redirect = location.pathname;
+      location.replace('/?redirect=' + encodeURIComponent(location.pathname));
+    </script>
   </head>
   <body>
-    <p>If you are not redirected automatically, <a href="/">click here</a>.</p>
+    Redirecting to <a href="/">home page</a>...
   </body>
 </html>

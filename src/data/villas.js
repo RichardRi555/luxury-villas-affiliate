@@ -4584,4 +4584,5 @@
     region: "Asia",
     affiliateLink: "https://expedia.com/affiliates/lapu-lapu-hotels-anza-mactan-beach-house-5-bedroom-villa-w-private-pool-beachfront.C1SNsPa" 
   },
+  //changes
 ];

@@ -41,19 +41,19 @@ export const destinations = {
   ],
 
   tier2: [
-    { country: "Croatia", destinations: ["Dubrovnik", "Hvar", "Split", "Istria (Rovinj, Poreč, Motovun)", "Korčula", "Brač", "Vis", "Šibenik", "Trogir"] },
-    { country: "Montenegro", destinations: ["Kotor", "Budva", "Sveti Stefan", "Tivat", "Herceg Novi"] },
-    { country: "Cyprus", destinations: ["Paphos", "Limassol", "Ayia Napa", "Protaras", "Larnaca"] },
-    { country: "Austria", destinations: ["Tyrol (Kitzbühel, Innsbruck)", "Arlberg"] },
+    { country: "Croatia", destinations: ["Dubrovnik", "Hvar", "Split", "Istria (Rovinj, Poreč, Motovun)", "Korčula", "Brač", "Vis", "Trogir"] },
+    { country: "Montenegro", destinations: ["Kotor"] },
+    { country: "Cyprus", destinations: ["Paphos", "Limassol", "Ayia Napa"] },
+    { country: "Austria", destinations: ["Tyrol (Kitzbühel, Innsbruck)"] },
     { country: "Canary Islands", destinations: ["Tenerife", "Lanzarote", "Gran Canaria"] },
-    { country: "Mauritius", destinations: ["Belle Mare", "Grand Baie", "Le Morne", "Flic en Flac", "Tamarin"] },
-    { country: "Sri Lanka", destinations: ["Galle", "Weligama", "Bentota", "Tangalle", "Mirissa"] },
+    { country: "Mauritius", destinations: ["Belle Mare", "Grand Baie", "Le Morne"] },
+    { country: "Sri Lanka", destinations: ["Galle", "Weligama", "Bentota", "Tangalle"] },
     { country: "Malaysia", destinations: ["Langkawi", "Penang"] },
-    { country: "Dominican Republic", destinations: ["Punta Cana", "Casa de Campo", "Cap Cana", "Samaná Peninsula"] },
-    { country: "Brazil", destinations: ["Florianópolis", "Bahia", "Rio de Janeiro"] },
-    { country: "Japan", destinations: ["Niseko", "Kyoto", "Hakone", "Okinawa", "Karuizawa", "Nara"] },
-    { country: "Morocco", destinations: ["Marrakech", "Essaouira", "Agadir", "Oualidia"] },
-    { country: "Australia", destinations: ["Byron Bay", "Whitsundays", "Port Douglas", "Mornington Peninsula"] }
+    { country: "Dominican Republic", destinations: ["Punta Cana", "Casa de Campo"] },
+    { country: "Brazil", destinations: ["Rio de Janeiro"] },
+    { country: "Japan", destinations: ["Niseko", "Kyoto", "Hakone", "Okinawa", "Karuizawa"] },
+    { country: "Morocco", destinations: ["Marrakech", "Agadir"] },
+    { country: "Australia", destinations: ["Melbourne"] }
   ],
 
   tier3: [

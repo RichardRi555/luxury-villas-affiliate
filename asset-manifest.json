@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ef88d75c.css",
-    "main.js": "/static/js/main.c1dac2fd.js",
+    "main.js": "/static/js/main.fd469508.js",
     "static/media/asia.jpg": "/static/media/asia.9e5d6e7389763758f0db.jpg",
     "static/media/Bahia.webp": "/static/media/Bahia.a9c5f7ad2bc9905b8d79.webp",
     "static/media/caribbean.jpg": "/static/media/caribbean.aae176669fcde684d3df.jpg",
@@ -155,6 +155,7 @@
     "static/media/Port Douglas.webp": "/static/media/Port Douglas.be6845283677d813f0cd.webp",
     "static/media/Akureyri.webp": "/static/media/Akureyri.2640e51accf76bb6698e.webp",
     "static/media/Antalya.webp": "/static/media/Antalya.0b749384697c0de359c9.webp",
+    "static/media/Melbourne.webp": "/static/media/Melbourne.c91bbd60ce924904c053.webp",
     "static/media/Naxos.webp": "/static/media/Naxos.3078aae1e9e27d4184f4.webp",
     "static/media/Brač.webp": "/static/media/Brač.1084d1c11bc01c04bc68.webp",
     "static/media/Ambergris Caye.webp": "/static/media/Ambergris Caye.060f9518becb8598d068.webp",
@@ -254,10 +255,10 @@
     "static/media/Lake Bled.webp": "/static/media/Lake Bled.14636a40a29891f34601.webp",
     "index.html": "/index.html",
     "main.ef88d75c.css.map": "/static/css/main.ef88d75c.css.map",
-    "main.c1dac2fd.js.map": "/static/js/main.c1dac2fd.js.map"
+    "main.fd469508.js.map": "/static/js/main.fd469508.js.map"
   },
   "entrypoints": [
     "static/css/main.ef88d75c.css",
-    "static/js/main.c1dac2fd.js"
+    "static/js/main.fd469508.js"
   ]
 }

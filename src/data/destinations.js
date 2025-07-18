@@ -59,9 +59,9 @@ export const destinations = {
   tier3: [
     { country: "Kenya", destinations: ["Diani Beach", "Watamu", "Malindi"] },
     { country: "Tanzania", destinations: ["Zanzibar"] },
-    { country: "New Zealand", destinations: ["Queenstown", "Bay of Islands", "Taupo", "Matakana"] },
-    { country: "Fiji", destinations: ["Mamanuca Islands", "Coral Coast", "Yasawa Islands", "Denarau Island"] },
-    { country: "Vanuatu", destinations: ["Efate", "Espiritu Santo"] },
+    { country: "New Zealand", destinations: ["Queenstown", "Taupo"] },
+    { country: "Fiji", destinations: ["Coral Coast", "Yasawa Islands"] },
+    { country: "Vanuatu", destinations: ["Efate"] },
     { country: "Iceland", destinations: ["Golden Circle", "Hella", "Akureyri"] },
   ]
 };

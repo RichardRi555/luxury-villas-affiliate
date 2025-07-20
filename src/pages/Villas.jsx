@@ -1,32 +1,76 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { useSearchParams, Link, useNavigate } from 'react-router-dom';
 import VillaCard from '../components/common/VillaCard';
 import { villas } from '../data/villas';
 
-// Get all unique regions
-const allRegions = [...new Set(villas.map(v => v.region))];
-
-// Create a mapping of regions to their countries
-const regionCountryMap = villas.reduce((acc, villa) => {
-  const [, country] = villa.location.includes(', ') 
-    ? villa.location.split(', ') 
-    : ['', villa.location];
-  
-  if (!acc[villa.region]) {
-    acc[villa.region] = new Set();
+// Utility function for consistent location parsing
+const parseLocation = (location) => {
+  if (!location) return { city: '', country: '' };
+  if (location.includes(', ')) {
+    const [city, country] = location.split(', ');
+    return { city: city.trim(), country: country.trim() };
   }
-  acc[villa.region].add(country.trim());
-  return acc;
-}, {});
+  return { city: '', country: location.trim() };
+};
 
 export default function Villas() {
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
   const [selectedRegion, setSelectedRegion] = useState('');
   const [selectedCountry, setSelectedCountry] = useState('');
-  const [filteredVillas, setFilteredVillas] = useState(villas);
 
-  // Read URL params on component mount
+  // Memoized data processing
+  const { allRegions, regionCountryMap } = useMemo(() => {
+    const allRegions = [...new Set(villas.map(v => v.region))];
+    const regionCountryMap = villas.reduce((acc, villa) => {
+      const { country } = parseLocation(villa.location);
+      if (!acc[villa.region]) {
+        acc[villa.region] = new Set();
+      }
+      acc[villa.region].add(country);
+      return acc;
+    }, {});
+    return { allRegions, regionCountryMap };
+  }, []);
+
+  // Process filtered villas
+  const filteredVillas = useMemo(() => {
+    let results = [...villas];
+    const regionParam = searchParams.get('region');
+    const countryParam = searchParams.get('country');
+    const destinationParam = searchParams.get('destination');
+
+    // Filter by region if selected
+    if (selectedRegion || regionParam) {
+      const region = selectedRegion || regionParam;
+      results = results.filter(villa => villa.region === region);
+    }
+
+    // Filter by country if selected
+    if (selectedCountry || countryParam) {
+      const country = selectedCountry || countryParam;
+      results = results.filter(villa => {
+        const { country: villaCountry } = parseLocation(villa.location);
+        return villaCountry.toLowerCase() === country.toLowerCase();
+      });
+    }
+
+    // Filter by destination if specified
+    if (destinationParam) {
+      const normalizedDestination = destinationParam.toLowerCase().trim();
+      results = results.filter(villa => {
+        const { city } = parseLocation(villa.location);
+        return city.toLowerCase().includes(normalizedDestination);
+      });
+    }
+
+    // Remove duplicates
+    return results.filter((villa, index, self) => 
+      index === self.findIndex(v => v.id === villa.id)
+    );
+  }, [selectedRegion, selectedCountry, searchParams]);
+
+  // Initialize state from URL params
   useEffect(() => {
     const regionParam = searchParams.get('region');
     const countryParam = searchParams.get('country');
@@ -35,86 +79,54 @@ export default function Villas() {
     if (regionParam) setSelectedRegion(regionParam);
     if (countryParam) setSelectedCountry(countryParam);
 
-    // Handle destination parameter
-    if (destinationParam) {
+    if (destinationParam && !countryParam) {
       const normalizedDestination = destinationParam.toLowerCase().trim();
-      const matchingVillas = villas.filter(v => {
-        const [city] = v.location.includes(', ') 
-          ? v.location.split(', ') 
-          : [v.location];
-        return (
-          city.trim().toLowerCase().includes(normalizedDestination) ||
-          city.trim().toLowerCase().startsWith(normalizedDestination.split(' ')[0])
-        );
+      const matchingVilla = villas.find(v => {
+        const { city } = parseLocation(v.location);
+        return city.toLowerCase().includes(normalizedDestination);
       });
 
-      if (matchingVillas.length > 0) {
-        setSelectedRegion(matchingVillas[0].region);
-        const [, country] = matchingVillas[0].location.includes(', ') 
-          ? matchingVillas[0].location.split(', ') 
-          : ['', matchingVillas[0].location];
-        setSelectedCountry(country.trim());
+      if (matchingVilla) {
+        setSelectedRegion(matchingVilla.region);
+        const { country } = parseLocation(matchingVilla.location);
+        setSelectedCountry(country);
       }
     }
   }, [searchParams]);
 
-  // Filter villas whenever filters change
-  useEffect(() => {
-    let results = villas;
-
-    // Filter by region if selected
-    if (selectedRegion) {
-      results = results.filter(villa => villa.region === selectedRegion);
-    }
-
-    // Filter by country if selected
-    const countryParam = searchParams.get('country');
-    if (countryParam) {
-      results = results.filter(villa => {
-        const [, country] = villa.location.includes(', ') 
-          ? villa.location.split(', ') 
-          : ['', villa.location];
-        return country.trim().toLowerCase() === countryParam.toLowerCase();
-      });
-    }
-
-    // Filter by destination if in URL
-    const destinationParam = searchParams.get('destination');
-    if (destinationParam) {
-      const normalizedDestination = destinationParam.toLowerCase().trim();
-      results = results.filter(villa => {
-        const [city] = villa.location.includes(', ') 
-          ? villa.location.split(', ') 
-          : [villa.location];
-        return (
-          city.trim().toLowerCase().includes(normalizedDestination) ||
-          city.trim().toLowerCase().startsWith(normalizedDestination.split(' ')[0])
-        );
-      });
-    }
-
-    setFilteredVillas(results);
-  }, [selectedRegion, searchParams]);
-
   // Get countries for the selected region
-  const countriesForRegion = selectedRegion 
-    ? Array.from(regionCountryMap[selectedRegion] || []).sort() 
-    : [];
+  const countriesForRegion = useMemo(() => {
+    if (!selectedRegion) return [];
+    return Array.from(regionCountryMap[selectedRegion] || []).sort();
+  }, [selectedRegion, regionCountryMap]);
 
   const handleRegionChange = (e) => {
     const newRegion = e.target.value;
     setSelectedRegion(newRegion);
     setSelectedCountry('');
-    // Update URL params
+    
     const params = new URLSearchParams();
     if (newRegion) params.set('region', newRegion);
+    const destinationParam = searchParams.get('destination');
+    if (destinationParam) params.set('destination', destinationParam);
+    setSearchParams(params);
+  };
+
+  const handleCountryChange = (e) => {
+    const newCountry = e.target.value;
+    setSelectedCountry(newCountry);
+    
+    const params = new URLSearchParams();
+    if (selectedRegion) params.set('region', selectedRegion);
+    if (newCountry) params.set('country', newCountry);
+    const destinationParam = searchParams.get('destination');
+    if (destinationParam) params.set('destination', destinationParam);
     setSearchParams(params);
   };
 
   const resetFilters = () => {
     setSelectedRegion('');
     setSelectedCountry('');
-    // Clear all URL parameters
     navigate('/villas', { replace: true });
   };
 
@@ -143,15 +155,7 @@ export default function Villas() {
           <select
             className="w-full p-3 border rounded-lg shadow-sm focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 disabled:opacity-50"
             value={selectedCountry}
-            onChange={(e) => {
-              const newCountry = e.target.value;
-              setSelectedCountry(newCountry);
-              // Update URL params
-              const params = new URLSearchParams();
-              if (selectedRegion) params.set('region', selectedRegion);
-              if (newCountry) params.set('country', newCountry);
-              setSearchParams(params);
-            }}
+            onChange={handleCountryChange}
             disabled={!selectedRegion}
           >
             <option value="">All Countries</option>

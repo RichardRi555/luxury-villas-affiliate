@@ -11,24 +11,35 @@ export default function DestinationCard({ destination }) {
   }, [destination.image]);
 
   const getVillaFilterParams = () => {
-    const params = new URLSearchParams();
-    
-    if (destination.name.includes('Bali (')) {
-      params.set('destination', 'Bali');
-      params.set('country', 'Indonesia');
-    } else if (destination.name.includes('(')) {
-      const baseName = destination.name.split('(')[0].trim();
-      params.set('destination', baseName);
-      params.set('country', destination.country);
-    } else if (destination.country) {
-      params.set('destination', destination.name);
-      params.set('country', destination.country);
-    } else {
-      params.set('country', destination.name);
-    }
+  const params = new URLSearchParams();
+  
+  // Handle Bali special case
+  if (destination.name.includes('Bali (')) {
+    params.set('destination', 'Bali');
+    params.set('country', 'Indonesia');
+    params.set('region', destination.region || ''); // Add region if available
+  } 
+  // Handle other destinations with parentheses
+  else if (destination.name.includes('(')) {
+    const baseName = destination.name.split('(')[0].trim();
+    params.set('destination', baseName);
+    params.set('country', destination.country);
+    params.set('region', destination.region || '');
+  } 
+  // Handle country-only cases
+  else if (destination.country) {
+    params.set('destination', destination.name);
+    params.set('country', destination.country);
+    params.set('region', destination.region || '');
+  } 
+  // Fallback
+  else {
+    params.set('country', destination.name);
+    params.set('region', destination.region || '');
+  }
 
-    return params.toString();
-  };
+  return params.toString();
+};
 
   const getDisplayName = () => {
     if (destination.name.includes('(')) {

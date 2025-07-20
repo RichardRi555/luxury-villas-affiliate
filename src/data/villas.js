@@ -157,7 +157,7 @@
     affiliateLink: "https://expedia.com/affiliates/sofanda-resort.OkiPm8f" 
   },
   {
-    id: 13,
+    id: 14,
     name: "Villa Sawah Prambanan",
     location: "Java, Indonesia",
     price: "From ~ $121/night",
@@ -169,7 +169,7 @@
     affiliateLink: "https://expedia.com/affiliates/prambanan-hotels-villa-sawah-prambanan.23oIdVw" 
   },
   {
-    id: 14,
+    id: 15,
     name: "4 BR City View Villa with a private pool 3",
     location: "Java, Indonesia",
     price: "From ~ $1000/night",
@@ -181,7 +181,7 @@
     affiliateLink: "https://expedia.com/affiliates/bandung-hotels-4-bedrooms-pool-2-villa-city-view.j7GoM12" 
   },
   {
-    id: 15,
+    id: 16,
     name: "6 BR Hill View Villa with a private pool 1",
     location: "Java, Indonesia",
     price: "From ~ $1000/night",
@@ -193,7 +193,7 @@
     affiliateLink: "https://expedia.com/affiliates/bandung-hotels-6-br-hill-view-villa-with-a-private-pool-1.7HwRZ0S" 
   },
   {
-    id: 16,
+    id: 17,
     name: "SeaBlue Villas",
     location: "Mykonos, Greece",
     price: "From ~ $200/night",
@@ -205,7 +205,7 @@
     affiliateLink: "https://expedia.com/affiliates/mykonos-hotels-seablue-villas.aiIPb1m" 
   },
   {
-    id: 17,
+    id: 18,
     name: "Senses Villas",
     location: "Mykonos, Greece",
     price: "From ~ $400/night",
@@ -217,7 +217,7 @@
     affiliateLink: "https://expedia.com/affiliates/mykonos-hotels-senses-villas.uHw0G26" 
   },
   {
-    id: 18,
+    id: 19,
     name: "Mykonos Panormos Villas",
     location: "Mykonos, Greece",
     price: "From ~ $450/night",
@@ -229,7 +229,7 @@
     affiliateLink: "https://expedia.com/affiliates/mykonos-hotels-mykonos-panormos-villas.FTDmxO0" 
   },
   {
-    id: 19,
+    id: 20,
     name: "Bonzoe Suites & Villas",
     location: "Mykonos, Greece",
     price: "From ~ $800/night",
@@ -241,7 +241,7 @@
     affiliateLink: "https://expedia.com/affiliates/mykonos-hotels-bonzoe.WOnSNDP" 
   },
   {
-    id: 20,
+    id: 21,
     name: "Villa Alessandra - Near Ornos Beach",
     location: "Mykonos, Greece",
     price: "From ~ $3800/night",
@@ -253,7 +253,7 @@
     affiliateLink: "https://expedia.com/affiliates/mykonos-hotels-villa-alessandra-near-ornos-beach.rw2YRUo" 
   },
   {
-    id: 21,
+    id: 22,
     name: "Amor Hideaway Villas",
     location: "Santorini, Greece",
     price: "From ~ $450/night",
@@ -265,7 +265,7 @@
     affiliateLink: "https://expedia.com/affiliates/santorini-hotels-amor-hideaway-villas.kRsj3xG" 
   },
   {
-    id: 22,
+    id: 23,
     name: "Secret Earth Santorini",
     location: "Santorini, Greece",
     price: "From ~ $470/night",
@@ -277,7 +277,7 @@
     affiliateLink: "https://expedia.com/affiliates/santorini-hotels-secret-earth-santorini.zEoMKpi" 
   },
   {
-    id: 23,
+    id: 24,
     name: "Halo Santorini- Living Experience",
     location: "Santorini, Greece",
     price: "From ~ $300/night",
@@ -289,7 +289,7 @@
     affiliateLink: "https://expedia.com/affiliates/santorini-hotels-halo-santorini-living-experience.iLs5HvI" 
   },
   {
-    id: 24,
+    id: 25,
     name: "Aesthesis Boutique Villas Fira",
     location: "Santorini, Greece",
     price: "From ~ $650/night",
@@ -301,7 +301,7 @@
     affiliateLink: "https://expedia.com/affiliates/santorini-hotels-aesthesis-boutique-villas-fira.4bsx8dI" 
   },
   {
-    id: 25,
+    id: 26,
     name: "Armeni Luxury Villas",
     location: "Santorini, Greece",
     price: "From ~ $525/night",
@@ -313,7 +313,7 @@
     affiliateLink: "https://expedia.com/affiliates/santorini-hotels-armeni-luxury-villas.NAIsaSp" 
   },
   {
-    id: 26,
+    id: 27,
     name: "Istron Villas",
     location: "Crete, Greece",
     price: "From ~ $500/night",
@@ -325,7 +325,7 @@
     affiliateLink: "https://expedia.com/affiliates/agios-nikolaos-hotels-istron-villas.w79EAD8" 
   },
   {
-    id: 26,
+    id: 28,
     name: "Panor Villas",
     location: "Crete, Greece",
     price: "From ~ $300/night",
@@ -337,7 +337,7 @@
     affiliateLink: "https://expedia.com/affiliates/rethymno-hotels-panor-villas.DEu5BDh" 
   },
   {
-    id: 27,
+    id: 29,
     name: "Mountain Dream",
     location: "Crete, Greece",
     price: "From ~ $1000/night",
@@ -349,7 +349,7 @@
     affiliateLink: "https://expedia.com/affiliates/rethymno-hotels-mountain-dream.qIlrC2X" 
   },
   {
-    id: 28,
+    id: 30,
     name: "Villa Kalouas Private Pool",
     location: "Crete, Greece",
     price: "From ~ $450/night",
@@ -361,7 +361,7 @@
     affiliateLink: "https://expedia.com/affiliates/malevizi-hotels-villa-kalouas-private-pool.fv3H98F" 
   },
   {
-    id: 29,
+    id: 31,
     name: "Villa Agriolive",
     location: "Crete, Greece",
     price: "From ~ $350/night",
@@ -373,7 +373,7 @@
     affiliateLink: "https://expedia.com/affiliates/hersonissos-hotels-villa-agriolive.hqgc2cl" 
   },
   {
-    id: 30,
+    id: 32,
     name: "Villa Plyto Amazing views Heated pool",
     location: "Crete, Greece",
     price: "From ~ $800/night",
@@ -385,7 +385,7 @@
     affiliateLink: "https://expedia.com/affiliates/hersonissos-hotels-villa-plyto-amazing-views-heated-pool.oyHaeqH" 
   },
   {
-    id: 31,
+    id: 33,
     name: "Corfu Luxury Villas",
     location: "Corfu, Greece",
     price: "From ~ $1000/night",
@@ -397,7 +397,7 @@
     affiliateLink: "https://expedia.com/affiliates/corfu-hotels-corfu-luxury-villas.YKQdRUK" 
   },
   {
-    id: 32,
+    id: 34,
     name: "Glyfa Beach Villas",
     location: "Corfu, Greece",
     price: "From ~ $400/night",
@@ -409,7 +409,7 @@
     affiliateLink: "https://expedia.com/affiliates/corfu-hotels-glyfa-beach-villas.Qo6rsQY" 
   },
   {
-    id: 33,
+    id: 35,
     name: "Villa Antonis",
     location: "Corfu, Greece",
     price: "From ~ $950/night",
@@ -421,7 +421,7 @@
     affiliateLink: "https://expedia.com/affiliates/corfu-hotels-villa-antonis.KsaVvqe" 
   },
   {
-    id: 34,
+    id: 36,
     name: "The Editor's Villa - Member of Spiritual Living Corfu",
     location: "Corfu, Greece",
     price: "From ~ $1600/night",
@@ -433,7 +433,7 @@
     affiliateLink: "https://expedia.com/affiliates/corfu-hotels-the-editors-villa-member-of-spiritual-living-corfu.SGZ6cmA" 
   },
   {
-    id: 35,
+    id: 37,
     name: "Villa 'Natura' with Sea View, Wi-Fi and Air Conditioning.",
     location: "Corfu, Greece",
     price: "From ~ $3200/night",
@@ -445,7 +445,7 @@
     affiliateLink: "https://expedia.com/affiliates/corfu-hotels-villa-natura-with-sea-view.VUY13LU" 
   },
   {
-    id: 36,
+    id: 38,
     name: "Acron Villas",
     location: "Paros, Greece",
     price: "From ~ $600/night",
@@ -457,7 +457,7 @@
     affiliateLink: "https://expedia.com/affiliates/paros-hotels-24-estate-villas-paros.6dFo5Wj" 
   },
   {
-    id: 37,
+    id: 39,
     name: "Olithos Villas",
     location: "Paros, Greece",
     price: "From ~ $400/night",
@@ -469,7 +469,7 @@
     affiliateLink: "https://expedia.com/affiliates/paros-hotels-olithos-villas.SjtjdTF" 
   },
   {
-    id: 38,
+    id: 40,
     name: "Paros Nereids Villas",
     location: "Paros, Greece",
     price: "From ~ $650/night",
@@ -481,7 +481,7 @@
     affiliateLink: "https://expedia.com/affiliates/paros-hotels-paros-nereids-villas.P6KMwqx" 
   },
   {
-    id: 39,
+    id: 41,
     name: "Aelia Paros Villas",
     location: "Paros, Greece",
     price: "From ~ $1370/night",
@@ -493,7 +493,7 @@
     affiliateLink: "https://expedia.com/affiliates/paros-hotels-aelia-paros-villas.qLcnfLN" 
   },
   {
-    id: 40,
+    id: 42,
     name: "Martineli Residence",
     location: "Paros, Greece",
     price: "From ~ $1600/night",
@@ -505,7 +505,7 @@
     affiliateLink: "https://expedia.com/affiliates/paros-hotels-martineli-residence.HIHIWL5" 
   },
   {
-    id: 41,
+    id: 43,
     name: "Depis Edem Luxury Private Villas",
     location: "Naxos, Greece",
     price: "From ~ $650/night",
@@ -517,19 +517,19 @@
     affiliateLink: "https://expedia.com/affiliates/naxos-hotels-depis-edem-luxury-private-villas.Ja71HNe" 
   },
   {
-    id: 42,
+    id: 44,
     name: "Iliada Villas",
     location: "Naxos, Greece",
-    price: "From ~ $700/night",
+    price: "From ~ $240/night",
     rating: "10/10",
     image: "https://images.trvl-media.com/lodging/13000000/12620000/12611400/12611304/6a1bfcb6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     description: "Family-friendly Naxos villa with pools, spa services, and free WiFi, featuring premium rooms with hydromassage showers and private balconies.",
     amenities: ["Children's Pool", "Free Manager's Reception", "24-Hour Airport Shuttle", "Free WiFi", "Family-Friendly Kitchen", "Daily Housekeeping", "Spa Services"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/naxos-hotels-depis-edem-luxury-private-villas.Ja71HNe" 
+    affiliateLink: "https://expedia.com/affiliates/naxos-hotels-iliada-villas.IDAzklM" 
   },
   {
-    id: 43,
+    id: 45,
     name: "Onym Curated Villas",
     location: "Naxos, Greece",
     price: "From ~ $240/night",
@@ -541,7 +541,7 @@
     affiliateLink: "https://expedia.com/affiliates/naxos-hotels-onym-curated-villas.54woSf3" 
   },
   {
-    id: 44,
+    id: 46,
     name: "Halcyon Suites and Villas Naxos",
     location: "Naxos, Greece",
     price: "From ~ $320/night",
@@ -553,7 +553,7 @@
     affiliateLink: "https://expedia.com/affiliates/naxos-hotels-halcyon-suites-and-villas-naxos.gYvkdSN" 
   },
   {
-    id: 45,
+    id: 47,
     name: "Lithia Exclusive Villas",
     location: "Naxos, Greece",
     price: "From ~ $1000/night",
@@ -565,7 +565,7 @@
     affiliateLink: "https://expedia.com/affiliates/naxos-hotels-lithia-exclusive-villas.hw9w9iZ" 
   },
   {
-    id: 46,
+    id: 48,
     name: "Luxury Villa Amaltheia Rhodes",
     location: "Rhodes, Greece",
     price: "From ~ $1500/night",
@@ -577,7 +577,7 @@
     affiliateLink: "https://expedia.com/affiliates/rhodes-hotels-luxury-villa-amaltheia-rhodes.l3WFEJy" 
   },
   {
-    id: 47,
+    id: 49,
     name: "Country House 'Villa Mata' with Private Pool, Wi-Fi and Air Conditioning",
     location: "Rhodes, Greece",
     price: "From ~ $1350/night",
@@ -589,7 +589,7 @@
     affiliateLink: "https://expedia.com/affiliates/rhodes-hotels-country-house-villa-mata-with-private-pool.BerQYBi" 
   },
   {
-    id: 48,
+    id: 50,
     name: "Spacious beach front Vila with 100 sqm infinity pool, a basket ball court",
     location: "Rhodes, Greece",
     price: "From ~ $1350/night",
@@ -601,7 +601,7 @@
     affiliateLink: "https://expedia.com/affiliates/rhodes-hotels-spacious-beach-front-vila-with-100-sqm-infinity-pool.KQWRxjO" 
   },
   {
-    id: 49,
+    id: 51,
     name: "Villa 'Eldorado Luxury' with Mountain View, Private Pool & Wi-Fi",
     location: "Rhodes, Greece",
     price: "From ~ $1350/night",
@@ -613,7 +613,7 @@
     affiliateLink: "https://expedia.com/affiliates/rhodes-hotels-villa-eldorado-luxury-with-mountain-view.X753UTo" 
   },
   {
-    id: 50,
+    id: 52,
     name: "Gennadi Dreams Holiday Villa",
     location: "Rhodes, Greece",
     price: "From ~ $900/night",
@@ -625,7 +625,7 @@
     affiliateLink: "https://expedia.com/affiliates/rhodes-hotels-gennadi-dreams-holiday-villa.SmkYecY" 
   },
   {
-    id: 51,
+    id: 53,
     name: "Coco Palm Dhuni Kolhu",
     location: "Baa Atoll, Maldives",
     price: "From ~ $1350/night",
@@ -637,7 +637,7 @@
     affiliateLink: "https://expedia.com/affiliates/dhunikolhu-hotels-coco-palm-dhuni-kolhu.9vk0i3z" 
   },
   {
-    id: 52,
+    id: 54,
     name: "Anantara Kihavah Maldives Villas",
     location: "Baa Atoll, Maldives",
     price: "From ~ $2600/night",
@@ -649,7 +649,7 @@
     affiliateLink: "https://expedia.com/affiliates/kihavah-hotels-anantara-kihavah-maldives-villas.gL4jd4p" 
   },
   {
-    id: 53,
+    id: 55,
     name: "Soneva Fushi",
     location: "Baa Atoll, Maldives",
     price: "From ~ $5700/night",
@@ -661,7 +661,7 @@
     affiliateLink: "https://expedia.com/affiliates/kunfunadhoo-hotels-soneva-fushi.cxntpKK" 
   },
   {
-    id: 54,
+    id: 56,
     name: "Four Seasons Maldives at Landaa Giraavaru",
     location: "Baa Atoll, Maldives",
     price: "From ~ $2200/night",
@@ -673,7 +673,7 @@
     affiliateLink: "https://expedia.com/affiliates/landaa-giraavaru-hotels-four-seasons-maldives-at-landaa-giraavaru.P8KbaAv" 
   },
   {
-    id: 55,
+    id: 57,
     name: "Dreamland Unique Sea and Lake Resort Spa",
     location: "Baa Atoll, Maldives",
     price: "From ~ $850/night",
@@ -685,7 +685,7 @@
     affiliateLink: "https://expedia.com/affiliates/hirundhoo-hotels-dreamland-unique-sea-and-lake-resort-spa.eXnN630" 
   },
   {
-    id: 56,
+    id: 58,
     name: "Most Spacious Accomodation in Town",
     location: "North Male Atoll, Maldives",
     price: "From ~ $950/night",
@@ -697,7 +697,7 @@
     affiliateLink: "https://expedia.com/affiliates/hulhumale-hotels-most-spacious-accomodation-in-town.LpYYAze" 
   },
   {
-    id: 57,
+    id: 59,
     name: "Hilton Maldives Amingiri Resort & Spa",
     location: "North Male Atoll, Maldives",
     price: "From ~ $1775/night",
@@ -709,7 +709,7 @@
     affiliateLink: "https://expedia.com/affiliates/kuda-vattaru-hotels-hilton-maldives-amingiri-resort.AFOWaFe" 
   },
   {
-    id: 58,
+    id: 60,
     name: "Oaga Art Resort - Greatest",
     location: "North Male Atoll, Maldives",
     price: "From ~ $1500/night",
@@ -721,7 +721,7 @@
     affiliateLink: "https://expedia.com/affiliates/maaranfushi-hotels-oaga-art-resort-greatest-all-inclusive-with-free-transfer.II5U9kG" 
   },
   {
-    id: 59,
+    id: 61,
     name: "Centara Grand Lagoon Maldives",
     location: "North Male Atoll, Maldives",
     price: "From ~ $270/night",
@@ -733,7 +733,7 @@
     affiliateLink: "https://expedia.com/affiliates/kodhipparu-falhu-hotels-centara-grand-lagoon-maldives.peqrQhf" 
   },
   {
-    id: 60,
+    id: 62,
     name: "Kurumba Maldives",
     location: "North Male Atoll, Maldives",
     price: "From ~ $1700/night",
@@ -745,7 +745,7 @@
     affiliateLink: "https://expedia.com/affiliates/vihamanafushi-hotels-kurumba-maldives.ldZvGLH" 
   },
   {
-    id: 61,
+    id: 63,
     name: "LUX* South Ari Atoll",
     location: "South Ari Atoll, Maldives",
     price: "From ~ $1300/night",
@@ -757,7 +757,7 @@
     affiliateLink: "https://expedia.com/affiliates/dhidhoofinolhu-island-hotels-lux-south-ari-atoll.dXE9kD5" 
   },
   {
-    id: 62,
+    id: 64,
     name: "Machchafushi Island Resort & Spa Maldives, The Centara Collection",
     location: "South Ari Atoll, Maldives",
     price: "From ~ $300/night",
@@ -769,7 +769,7 @@
     affiliateLink: "https://expedia.com/affiliates/machchafushi-hotels-centara-grand-island-resort-spa-maldives.tgtt6Si" 
   },
   {
-    id: 63,
+    id: 65,
     name: "SUNSET OCEAN POOL VILLA - KING",
     location: "South Ari Atoll, Maldives",
     price: "From ~ $2500/night",
@@ -781,7 +781,7 @@
     affiliateLink: "https://expedia.com/affiliates/machchafushi-hotels-sunset-ocean-pool-villa-king.lDO16Hs" 
   },
   {
-    id: 64,
+    id: 66,
     name: "BEACH SUITE - KING Maldives",
     location: "South Ari Atoll, Maldives",
     price: "From ~ $1000/night",
@@ -793,7 +793,7 @@
     affiliateLink: "https://expedia.com/affiliates/machchafushi-hotels-beach-suite-king-maldives.8xjLRpH" 
   },
   {
-    id: 65,
+    id: 67,
     name: "Conrad Maldives Rangali Island",
     location: "South Ari Atoll, Maldives",
     price: "From ~ $830/night",
@@ -805,7 +805,7 @@
     affiliateLink: "https://expedia.com/affiliates/rangali-island-hotels-conrad-maldives-rangali-island.zWXMfm8" 
   },
   {
-    id: 66,
+    id: 68,
     name: "Sun Siyam Iru Fushi",
     location: "Noonu Atoll, Maldives",
     price: "From ~ $1400/night",
@@ -817,7 +817,7 @@
     affiliateLink: "https://expedia.com/affiliates/iru-fushi-hotels-sun-siyam-iru-fushi.McWXrju" 
   },
   {
-    id: 67,
+    id: 69,
     name: "Kuredhivaru Resort & Spa Maldives",
     location: "Noonu Atoll, Maldives",
     price: "From ~ $1800/night",
@@ -829,7 +829,7 @@
     affiliateLink: "https://expedia.com/affiliates/kuredhivaru-hotels-movenpick-resort-kuredhivaru-maldives.rloXp8V" 
   },
   {
-    id: 68,
+    id: 70,
     name: "Soneva Jani",
     location: "Noonu Atoll, Maldives",
     price: "From ~ $6000/night",
@@ -841,7 +841,7 @@
     affiliateLink: "https://expedia.com/affiliates/medhufaru-hotels-soneva-jani.eoMh8Oh" 
   },
   {
-    id: 69,
+    id: 71,
     name: "You & Me Maldives - Adults Only - Premium All-Inclusive",
     location: "Raa Atoll, Maldives",
     price: "From ~ $1500/night",
@@ -853,7 +853,7 @@
     affiliateLink: "https://expedia.com/affiliates/uthurumaafaru-hotels-you-me-maldives.0HFnugq" 
   },
   {
-    id: 70,
+    id: 72,
     name: "Ifuru Island Maldives - 24-Hours Premium All Inclusive",
     location: "Raa Atoll, Maldives",
     price: "From ~ $1000/night",
@@ -865,7 +865,7 @@
     affiliateLink: "https://expedia.com/affiliates/ifuru-hotels-ifuru-island-premium-all-inclusive.oZPGz0v" 
   },
   {
-    id: 71,
+    id: 73,
     name: "Emerald Faarufushi Resort & Spa",
     location: "Raa Atoll, Maldives",
     price: "From ~ $1900/night",
@@ -877,7 +877,7 @@
     affiliateLink: "https://expedia.com/affiliates/ifuru-hotels-faarufushi-maldives.nORimxs" 
   },
   {
-    id: 72,
+    id: 74,
     name: "The Standard, Huruvalhi Maldives",
     location: "Raa Atoll, Maldives",
     price: "From ~ $550/night",
@@ -889,7 +889,7 @@
     affiliateLink: "https://expedia.com/affiliates/huruvalhi-hotels-the-standard.latCjYE" 
   },
   {
-    id: 73,
+    id: 75,
     name: "Kudafushi Resort and Spa",
     location: "Raa Atoll, Maldives",
     price: "From ~ $1700/night",
@@ -901,7 +901,7 @@
     affiliateLink: "https://expedia.com/affiliates/kudafushi-hotels-kudafushi-resort-and-spa.RG43iWF" 
   },
   {
-    id: 74,
+    id: 76,
     name: "Villa Dei Principi Luxury Suites",
     location: "Amalfi Coast, Italy",
     price: "From ~ $900/night",
@@ -913,7 +913,7 @@
     affiliateLink: "https://expedia.com/affiliates/positano-hotels-villa-dei-principi-luxury-suites.xzMUx4B" 
   },
   {
-    id: 75,
+    id: 77,
     name: "Villa Capri - A breathtaking view",
     location: "Amalfi Coast, Italy",
     price: "From ~ $500/night",
@@ -925,7 +925,7 @@
     affiliateLink: "https://expedia.com/affiliates/praiano-hotels-villa-capri.MKQ5SVz" 
   },
   {
-    id: 76,
+    id: 78,
     name: "VILLA GIARA - Five Bedroom Villa, Sleeps 11",
     location: "Amalfi Coast, Italy",
     price: "From ~ $4500/night",
@@ -937,7 +937,7 @@
     affiliateLink: "https://expedia.com/affiliates/praiano-hotels-villa-giara-five-bedroom-villa.34lG8vV" 
   },
   {
-    id: 77,
+    id: 79,
     name: "Villa 'Suite Tramonto In Dependance' with Sea View, Wi-Fi and Air Conditioning",
     location: "Amalfi Coast, Italy",
     price: "From ~ $900/night",
@@ -949,7 +949,7 @@
     affiliateLink: "https://expedia.com/affiliates/conca-dei-marini-hotels-villa-suite-tramonto-in-dependance-with-sea-view.i0sqlUO" 
   },
   {
-    id: 78,
+    id: 80,
     name: "Villa 'Luxury A Strapiombo Sul Mare' with Sea View, Wi-Fi and Air Conditioning",
     location: "Amalfi Coast, Italy",
     price: "From ~ $6600/night",
@@ -961,7 +961,7 @@
     affiliateLink: "https://expedia.com/affiliates/vietri-sul-mare-hotels-villa-luxury-a-strapiombo-sul-mare-with-sea-view.kqvopeg" 
   },
   {
-    id: 79,
+    id: 81,
     name: "Villa Azzurra, Villa in Positano with Jacuzzi views, 1km from beach",
     location: "Amalfi Coast, Italy",
     price: "From ~ $3000/night",
@@ -973,7 +973,7 @@
     affiliateLink: "https://expedia.com/affiliates/positano-hotels-villa-azzurra.NvNWtLw" 
   },
   {
-    id: 80,
+    id: 82,
     name: "Villa Cantone with view, private pool and private SPA, perfect for groups!",
     location: "Tuscany, Italy",
     price: "From ~ $1900/night",
@@ -985,7 +985,7 @@
     affiliateLink: "https://expedia.com/affiliates/sansepolcro-hotels-villa-in-tuscany-with-view.Z9xrWLY" 
   },
   {
-    id: 81,
+    id: 83,
     name: "Antico Brunello",
     location: "Tuscany, Italy",
     price: "From ~ $8500/night",
@@ -997,7 +997,7 @@
     affiliateLink: "https://expedia.com/affiliates/montalcino-hotels-antico-brunello.qNgGDKJ" 
   },
   {
-    id: 82,
+    id: 84,
     name: "Architectural/Minimal Villa in Forte dei Marmi, Roma Imperiale",
     location: "Tuscany, Italy",
     price: "From ~ $2000/night",
@@ -1009,7 +1009,7 @@
     affiliateLink: "https://expedia.com/affiliates/forte-dei-marmi-hotels-architecturalminimal-villa-in-forte-dei-marmi.uvEJqb7" 
   },
   {
-    id: 83,
+    id: 85,
     name: "VILLA CHIGI - Seven Bedroom Villa, Sleeps 14",
     location: "Tuscany, Italy",
     price: "From ~ $7000/night",
@@ -1021,7 +1021,7 @@
     affiliateLink: "https://expedia.com/affiliates/buonconvento-hotels-villa-chigi-seven-bedroom-villa.x4moIMp" 
   },
   {
-    id: 84,
+    id: 86,
     name: "Wedding Villa in Chianti - Villa la Veronica",
     location: "Tuscany, Italy",
     price: "From ~ $3000/night",
@@ -1033,7 +1033,7 @@
     affiliateLink: "https://expedia.com/affiliates/greve-in-chianti-hotels-wedding-villa-in-chianti-villa-la-veronica.empsEFV" 
   },
   {
-    id: 85,
+    id: 87,
     name: "FANTASTIC VILLA WITH TERRACE",
     location: "Lake Como, Italy",
     price: "From ~ $240/night",
@@ -1045,7 +1045,7 @@
     affiliateLink: "https://expedia.com/affiliates/perledo-hotels-vrbo-property.KMmMV4U" 
   },
   {
-    id: 86,
+    id: 88,
     name: "'The Depandance' Villa Giù",
     location: "Lake Como, Italy",
     price: "From ~ $1500/night",
@@ -1057,7 +1057,7 @@
     affiliateLink: "https://expedia.com/affiliates/faggeto-lario-hotels-the-depandance-villa-giu.tbLCpmv" 
   },
   {
-    id: 87,
+    id: 89,
     name: "Terrazza Torno",
     location: "Lake Como, Italy",
     price: "From ~ $750/night",
@@ -1069,7 +1069,7 @@
     affiliateLink: "https://expedia.com/affiliates/torno-hotels-historic-villa-with-gorgeous-patio-on-lake-como.JAlwcl4" 
   },
   {
-    id: 88,
+    id: 90,
     name: "Cà Bossi Retreat above Lake Como",
     location: "Lake Como, Italy",
     price: "From ~ $4900/night",
@@ -1081,7 +1081,7 @@
     affiliateLink: "https://expedia.com/affiliates/cernobbio-hotels-villa-mountain-nature-retreat-above-lake-with-terrace.YRXf6Qj" 
   },
   {
-    id: 90,
+    id: 91,
     name: "Como Ruby Villa by Aden Luxury",
     location: "Lake Como, Italy",
     price: "From ~ $4100/night",
@@ -1093,7 +1093,7 @@
     affiliateLink: "https://expedia.com/affiliates/laglio-hotels-como-ruby-villa-by-aden-luxury.qVPCuGz" 
   },
   {
-    id: 91,
+    id: 92,
     name: "Sicilian Villa 'La Vittoria' with Sea View, Pool & Wi-Fi",
     location: "Sicily, Italy",
     price: "From ~ $5700/night",
@@ -1105,7 +1105,7 @@
     affiliateLink: "https://expedia.com/affiliates/trecastagni-hotels-sicilian-villa-la-vittoria-with-sea-view.TDhXknV" 
   },
   {
-    id: 92,
+    id: 93,
     name: "VILLA DEL MARE CALA BIANCA",
     location: "Sicily, Italy",
     price: "From ~ $300/night",
@@ -1117,7 +1117,7 @@
     affiliateLink: "https://expedia.com/affiliates/alcamo-hotels-villa-del-mare-cala-bianca.gzK7gz5" 
   },
   {
-    id: 93,
+    id: 94,
     name: "Magnificent mansion Villa Siciliana",
     location: "Sicily, Italy",
     price: "From ~ $1300/night",
@@ -1129,7 +1129,7 @@
     affiliateLink: "https://expedia.com/affiliates/chiaramonte-gulfi-hotels-antica-dimora-villa-zottopera.dOyhPCd" 
   },
   {
-    id: 94,
+    id: 95,
     name: "'Villa Sara' with Sea View, Pool & Wi-Fi",
     location: "Sicily, Italy",
     price: "From ~ $2500/night",
@@ -1141,7 +1141,7 @@
     affiliateLink: "https://expedia.com/affiliates/sciacca-hotels-villa-sara-with-sea-view.bQfEA5D" 
   },
   {
-    id: 95,
+    id: 96,
     name: "VILLA GIARDINI - Eight Bedroom Villa, Sleeps 20",
     location: "Sicily, Italy",
     price: "From ~ $7000/night",
@@ -1153,7 +1153,7 @@
     affiliateLink: "https://expedia.com/affiliates/lentini-hotels-villa-giardini-eight-bedroom-villa.jQ1Ldti" 
   },
   {
-    id: 96,
+    id: 97,
     name: "Villa 'Francesca' with Sea View, Wi-Fi and Air Conditioning",
     location: "Sardinia, Italy",
     price: "From ~ $4700/night",
@@ -1165,7 +1165,7 @@
     affiliateLink: "https://expedia.com/affiliates/golfo-aranci-hotels-villa-francesca-with-sea-view.AfInqLL" 
   },
   {
-    id: 97,
+    id: 98,
     name: "Villa near the Beach with Seaview, Wi-Fi, A/C, Terrace and Garden",
     location: "Sardinia, Italy",
     price: "From ~ $5000/night",
@@ -1177,7 +1177,7 @@
     affiliateLink: "https://expedia.com/affiliates/palau-hotels-villa-near-the-beach-with-seaview.uxbpdwQ" 
   },
   {
-    id: 98,
+    id: 99,
     name: "Villa 'Adelida Villasimius' with Sea View, Wi-Fi and Air Conditioning",
     location: "Sardinia, Italy",
     price: "From ~ $2900/night",
@@ -1189,7 +1189,7 @@
     affiliateLink: "https://expedia.com/affiliates/villasimius-hotels-villa-adelida-villasimius-with-sea-view.mBVHJum" 
   },
   {
-    id: 99,
+    id: 100,
     name: "'Villa Sara' with Private Pool, Wi-Fi and Air Conditioning",
     location: "Sardinia, Italy",
     price: "From ~ $5000/night",
@@ -1201,7 +1201,7 @@
     affiliateLink: "https://expedia.com/affiliates/sorso-hotels-apartment-villa-sara-with-private-pool.4TU877s" 
   },
   {
-    id: 100,
+    id: 101,
     name: "Villa 'Viola Con Piscina E Giardino' with Sea View, Private Pool and Wi-Fi",
     location: "Sardinia, Italy",
     price: "From ~ $7550/night",
@@ -1213,7 +1213,7 @@
     affiliateLink: "https://expedia.com/affiliates/palau-hotels-villa-viola-con-piscina-e-giardino-with-sea-view.jNGMLm8" 
   },
   {
-    id: 101,
+    id: 102,
     name: "La Canostra Capri - luxury villa",
     location: "Capri, Italy",
     price: "From ~ $3600/night",
@@ -1225,7 +1225,7 @@
     affiliateLink: "https://expedia.com/affiliates/anacapri-hotels-la-canostra-capri-luxury-villa.yQybPO5" 
   },
   {
-    id: 102,
+    id: 103,
     name: "Elite Villa Tragara House",
     location: "Capri, Italy",
     price: "From ~ $860/night",
@@ -1237,7 +1237,7 @@
     affiliateLink: "https://expedia.com/affiliates/capri-hotels-elite-villa-tragara-house.5FnhAgF" 
   },
   {
-    id: 103,
+    id: 104,
     name: "Villa Perla Marina Capri",
     location: "Capri, Italy",
     price: "From ~ $1700/night",
@@ -1249,7 +1249,7 @@
     affiliateLink: "https://expedia.com/affiliates/capri-hotels-charming-3-bedroom-villa-with-ac.eCb3EO9" 
   },
   {
-    id: 104,
+    id: 105,
     name: "2 Bedroom Villa in Campania",
     location: "Capri, Italy",
     price: "From ~ $2800/night",
@@ -1261,7 +1261,7 @@
     affiliateLink: "https://expedia.com/affiliates/capri-hotels-vrbo-property.gp3cH0u" 
   },
   {
-    id: 105,
+    id: 106,
     name: "Located 9 min walk from the center of Capri, and15 min walk from MarinaPiccola",
     location: "Capri, Italy",
     price: "From ~ $785/night",
@@ -1273,7 +1273,7 @@
     affiliateLink: "https://expedia.com/affiliates/capri-hotels-located-9-min-walk-from-the-center-of-capri.uFM3ZGx" 
   },
   {
-    id: 106,
+    id: 107,
     name: "Villa 'Cottage con Vista Mare' close to the Sea with Garden",
     location: "Portofino, Italy",
     price: "From ~ $590/night",
@@ -1285,7 +1285,7 @@
     affiliateLink: "https://expedia.com/affiliates/zoagli-hotels-villa-cottage-con-vista-mare-close-to-the-sea-with-garden.BTXMtNZ" 
   },
   {
-    id: 107,
+    id: 108,
     name: "15th century castle, between Cinque Terre and Portofino, private pool, sea view",
     location: "Portofino, Italy",
     price: "From ~ $900/night",
@@ -1297,7 +1297,7 @@
     affiliateLink: "https://expedia.com/affiliates/leivi-hotels-15th-century-castle.IYlSmH1" 
   },
   {
-    id: 108,
+    id: 109,
     name: "Holiday Home 'Casa Dica San Lorenzo' with Sea View, Private Terrace and Wi-Fi",
     location: "Portofino, Italy",
     price: "From ~ $915/night",
@@ -1309,7 +1309,7 @@
     affiliateLink: "https://expedia.com/affiliates/santa-margherita-ligure-hotels-holiday-home-casa-dica-san-lorenzo-with-sea-view.NhqvBzP" 
   },
   {
-    id: 109,
+    id: 110,
     name: "Villa 'Marta' with Wi-Fi and Air Conditioning",
     location: "Puglia, Italy",
     price: "From ~ $2100/night",
@@ -1321,7 +1321,7 @@
     affiliateLink: "https://expedia.com/affiliates/carovigno-hotels-villa-marta-with-wi-fi-and-air-conditioning.2ONjN5x" 
   },
   {
-    id: 110,
+    id: 111,
     name: "Belmont Luxury Villa & Spa",
     location: "Puglia, Italy",
     price: "From ~ $2300/night",
@@ -1333,7 +1333,7 @@
     affiliateLink: "https://expedia.com/affiliates/fasano-hotels-belmont-luxury-villa-spa.E5pIamj" 
   },
   {
-    id: 111,
+    id: 112,
     name: "Villa 'Torre Cappavecchia' with Private Pool, Private Terrace and Air Conditioning",
     location: "Puglia, Italy",
     price: "From ~ $2300/night",
@@ -1345,7 +1345,7 @@
     affiliateLink: "https://expedia.com/affiliates/molfetta-hotels-villa-torre-cappavecchia-with-private-pool.s0tYKI8" 
   },
   {
-    id: 112,
+    id: 113,
     name: "BELMONT LUXURY VILLA & SPA",
     location: "Puglia, Italy",
     price: "From ~ $2500/night",
@@ -1357,7 +1357,7 @@
     affiliateLink: "https://expedia.com/affiliates/carovigno-hotels-belmont-luxury-villa-spa.kTNZTx5" 
   },
   {
-    id: 113,
+    id: 114,
     name: "Private villa with swimming pool immersed in the nature of the Valle d'Itria",
     location: "Puglia, Italy",
     price: "From ~ $1800/night",
@@ -1369,7 +1369,7 @@
     affiliateLink: "https://expedia.com/affiliates/ostuni-hotels-private-villa-with-swimming-pool-immersed-in-the-nature-of-the-valle-ditria.blEdsu6" 
   },
   {
-    id: 114,
+    id: 115,
     name: "Villa 'Angelina' with Private Pool, Wi-Fi and Air Conditioning",
     location: "Lake Garda, Italy",
     price: "From ~ $6000/night",
@@ -1381,7 +1381,7 @@
     affiliateLink: "https://expedia.com/affiliates/lazise-hotels-villa-angelina-with-private-pool.vzt7zSb" 
   },
   {
-    id: 115,
+    id: 116,
     name: "Exclusive Villa Agave with Lake & Mountain View, Pool, Whirlpool and Sauna",
     location: "Lake Garda, Italy",
     price: "From ~ $4200/night",
@@ -1393,7 +1393,7 @@
     affiliateLink: "https://expedia.com/affiliates/toscolano-maderno-hotels-exclusive-villa-agave-with-lake-mountain-view.NPGlJhK" 
   },
   {
-    id: 116,
+    id: 117,
     name: "Villa 'Savi Lake View and Pool' with Lake View, Wi-Fi and Air Conditioning",
     location: "Lake Garda, Italy",
     price: "From ~ $3400/night",
@@ -1405,7 +1405,7 @@
     affiliateLink: "https://expedia.com/affiliates/torri-del-benaco-hotels-villa-savi-lake-view-and-pool-with-lake-view.EhwyyGw" 
   },
   {
-    id: 117,
+    id: 118,
     name: "'Villa Arias' with Lake View, Pool & Wi-Fi",
     location: "Lake Garda, Italy",
     price: "From ~ $6500/night",
@@ -1417,7 +1417,7 @@
     affiliateLink: "https://expedia.com/affiliates/tremosine-hotels-villa-arias-with-lake-view.ZeqOQKl" 
   },
   {
-    id: 118,
+    id: 119,
     name: "601A Panoramic Villa Clementina",
     location: "Lake Garda, Italy",
     price: "From ~ $2300/night",
@@ -1429,7 +1429,7 @@
     affiliateLink: "https://expedia.com/affiliates/torri-del-benaco-hotels-601a-panoramic-villa-clementina.fRPqeGs" 
   },
   {
-    id: 119,
+    id: 120,
     name: "Villa Graziella, Romantic Perugia",
     location: "Umbria, Italy",
     price: "From ~ $200/night",
@@ -1441,7 +1441,7 @@
     affiliateLink: "https://expedia.com/affiliates/magione-hotels-villa-graziella.LoZBQgi" 
   },
   {
-    id: 120,
+    id: 121,
     name: "Beautiful Villa In Umbria, swimming pool, Airco",
     location: "Umbria, Italy",
     price: "From ~ $3000/night",
@@ -1453,7 +1453,7 @@
     affiliateLink: "https://expedia.com/affiliates/torgiano-hotels-vrbo-property.EujaXnf" 
   },
   {
-    id: 121,
+    id: 122,
     name: "Vacation villa with private pool Italy in Rome for friends and families",
     location: "Umbria, Italy",
     price: "From ~ $3200/night",
@@ -1465,7 +1465,7 @@
     affiliateLink: "https://expedia.com/affiliates/stroncone-hotels-vrbo-property.DI2vqji" 
   },
   {
-    id: 122,
+    id: 123,
     name: "Casa Vog - Villa with private swimming pool near Perugia, Assisi and Gubbio",
     location: "Umbria, Italy",
     price: "From ~ $500/night",
@@ -1477,7 +1477,7 @@
     affiliateLink: "https://expedia.com/affiliates/torgiano-hotels-casa-vog-panoramic-villa-with-pool-and-whirlpool.kNuj83a" 
   },
   {
-    id: 123,
+    id: 124,
     name: "The Nucci Mill Case",
     location: "Umbria, Italy",
     price: "From ~ $350/night",
@@ -1489,7 +1489,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-venanzo-hotels-house.9KFWU0R" 
   },
   {
-    id: 124,
+    id: 125,
     name: "Villa 'Relais Il Termine' with Sea View, Wi-Fi and Air Conditioning",
     location: "Elba Island, Italy",
     price: "From ~ $8000/night",
@@ -1501,7 +1501,7 @@
     affiliateLink: "https://expedia.com/affiliates/rio-hotels-villa-relais-il-termine-with-sea-view.jRvc8VT" 
   },  
   {
-    id: 125,
+    id: 126,
     name: "Modern villa in the heart of Marciana Marina - Villetta Marina",
     location: "Elba Island, Italy",
     price: "From ~ $2600/night",
@@ -1513,7 +1513,7 @@
     affiliateLink: "https://expedia.com/affiliates/marciana-marina-hotels-modern-villa-in-the-heart-of-marciana-marina-villetta-marina.NVfq2b7" 
   },
   {
-    id: 126,
+    id: 127,
     name: "Light-flooded apartment with balcony - 3-room apartment Wanna",
     location: "Elba Island, Italy",
     price: "From ~ $1400/night",
@@ -1525,7 +1525,7 @@
     affiliateLink: "https://expedia.com/affiliates/capoliveri-hotels-light-flooded-apartment-with-balcony-3-room-apartment-wanna.JI2aVA2" 
   },
   {
-    id: 127,
+    id: 128,
     name: "Luxurious Villa 'Can Mariano' with Pool, Large Garden, Air Conditioning and Wi-Fi",
     location: "Ibiza, Spain",
     price: "From ~ $7200/night",
@@ -1537,7 +1537,7 @@
     affiliateLink: "https://expedia.com/affiliates/sant-josep-de-sa-talaia-hotels-luxurious-villa-can-mariano-with-pool.ULZ5kcA" 
   },
   {
-    id: 128,
+    id: 129,
     name: "Luxury Villa 'Oasis' with Pool, Panoramic Views, Wi-Fi & Large Garden",
     location: "Ibiza, Spain",
     price: "From ~ $4000/night",
@@ -1549,7 +1549,7 @@
     affiliateLink: "https://expedia.com/affiliates/santa-eulalia-del-rio-hotels-luxury-villa-can-angel-with-pool.ISRR8eCs" 
   },
   {
-    id: 129,
+    id: 130,
     name: "Villa 'Dorada' with Sea View, Wi-Fi and Air Conditioning",
     location: "Ibiza, Spain",
     price: "From ~ $7000/night",
@@ -1561,7 +1561,7 @@
     affiliateLink: "https://expedia.com/affiliates/santa-eulalia-del-rio-hotels-villa-dorada-with-sea-view.9caDq4I" 
   },
   {
-    id: 130,
+    id: 131,
     name: "Villa 'Rica Ibiza' with Sea View, Wi-Fi and Air Conditioning",
     location: "Ibiza, Spain",
     price: "From ~ $20000/night",
@@ -1573,7 +1573,7 @@
     affiliateLink: "https://expedia.com/affiliates/sant-josep-de-sa-talaia-hotels-villa-rica-ibiza-with-sea-view.ZZW2BMq" 
   },
   {
-    id: 131,
+    id: 132,
     name: "Modern Villa with Infinity Pool - Villa Es Calo",
     location: "Ibiza, Spain",
     price: "From ~ $9000/night",
@@ -1585,7 +1585,7 @@
     affiliateLink: "https://expedia.com/affiliates/sant-josep-de-sa-talaia-hotels-modern-villa-with-infinity-pool-villa-es-calo.o8mdhyG" 
   },
   {
-    id: 132,
+    id: 133,
     name: "SES ROQUES - Villa with private swimming pool and free Wifi in Santa Maria del Cami",
     location: "Mallorca, Spain",
     price: "From ~ $2200/night",
@@ -1597,7 +1597,7 @@
     affiliateLink: "https://expedia.com/affiliates/santa-maria-del-cami-hotels-ses-roques-villa-with-private-pool-in-santa-maria-del-cami.3gdmNwt" 
   },
   {
-    id: 133,
+    id: 134,
     name: "Villa La Vinya Gran with Mountain View, Sauna, Pool, Jacuzzi, Wi-Fi, A/C, Terraces & Tennis Court",
     location: "Mallorca, Spain",
     price: "From ~ $5700/night",
@@ -1609,7 +1609,7 @@
     affiliateLink: "https://expedia.com/affiliates/pollensa-hotels-villa-la-vinya-gran-with-mountain-view.SAKzmDm" 
   },
   {
-    id: 134,
+    id: 135,
     name: "SON PAX PETIT - Villa with private pool in Palma. Free WiFi",
     location: "Mallorca, Spain",
     price: "From ~ $3000/night",
@@ -1621,7 +1621,7 @@
     affiliateLink: "https://expedia.com/affiliates/palma-de-mallorca-hotels-son-pax-petit-villa-with-private-pool-in-palma-free-wifi.dmkoVIK" 
   },
   {
-    id: 135,
+    id: 136,
     name: "SA MONTANYETA - Villa with private pool in Manacor. Free WiFi",
     location: "Mallorca, Spain",
     price: "From ~ $4700/night",
@@ -1633,7 +1633,7 @@
     affiliateLink: "https://expedia.com/affiliates/manacor-hotels-sa-montanyeta-villa-with-private-pool-in-manacor-free-wifi.N2H0TcD" 
   },
   {
-    id: 136,
+    id: 137,
     name: "SON ARBOÇ GRAN - Villa with private pool and free WiFi.",
     location: "Mallorca, Spain",
     price: "From ~ $4800/night",
@@ -1645,7 +1645,7 @@
     affiliateLink: "https://expedia.com/affiliates/algaida-hotels-son-arboc-gran-villa-with-private-pool-and-free-wifi.1svA7x2" 
   },
   {
-    id: 137,
+    id: 138,
     name: "Villa '11 Sunset' with Mountain View, Wi-Fi and Air Conditioning",
     location: "Marbella, Spain",
     price: "From ~ $8400/night",
@@ -1657,7 +1657,7 @@
     affiliateLink: "https://expedia.com/affiliates/marbella-hotels-villa-11-sunset-with-mountain-view.wCnMzkI" 
   },
   {
-    id: 138,
+    id: 139,
     name: "Luxury Villa with Views Marbella",
     location: "Marbella, Spain",
     price: "From ~ $3000/night",
@@ -1669,7 +1669,7 @@
     affiliateLink: "https://expedia.com/affiliates/marbella-hotels-luxury-villa-with-views-marbella.bBu4V7c" 
   },
   {
-    id: 139,
+    id: 140,
     name: "Villa 'Namu' with Private Pool, Wi-Fi and Air Conditioning",
     location: "Marbella, Spain",
     price: "From ~ $12200/night",
@@ -1681,7 +1681,7 @@
     affiliateLink: "https://expedia.com/affiliates/marbella-hotels-villa-namu-with-private-pool.xqsrde9" 
   },
   {
-    id: 140,
+    id: 141,
     name: "Villa 'Viking' with Sea View, Wi-Fi and Air Conditioning",
     location: "Marbella, Spain",
     price: "From ~ $4200/night",
@@ -1693,7 +1693,7 @@
     affiliateLink: "https://expedia.com/affiliates/marbella-hotels-villa-viking-with-sea-view.DLykF8L" 
   },
   {
-    id: 141,
+    id: 142,
     name: "Los Monteros Luxury Villa",
     location: "Marbella, Spain",
     price: "From ~ $7700/night",
@@ -1705,7 +1705,7 @@
     affiliateLink: "https://expedia.com/affiliates/marbella-hotels-los-monteros-luxury-villa.KQVoNsX" 
   },
   {
-    id: 142,
+    id: 143,
     name: "Villa 'Endless Summer' with Sea View, Wi-Fi and Air Conditioning",
     location: "Costa del Sol, Spain",
     price: "From ~ $5600/night",
@@ -1717,7 +1717,7 @@
     affiliateLink: "https://expedia.com/affiliates/estepona-hotels-villa-endless-summer-with-sea-view.mAsxCkW" 
   },
   {
-    id: 143,
+    id: 144,
     name: "Villa 'Casa Blanca' with Private Pool, Wi-Fi and Air Conditioning",
     location: "Costa del Sol, Spain",
     price: "From ~ $6900/night",
@@ -1729,7 +1729,7 @@
     affiliateLink: "https://expedia.com/affiliates/marbella-hotels-villa-casa-blanca-with-private-pool.aH1bGcR" 
   },
   {
-    id: 144,
+    id: 145,
     name: "'Luxury Villa Larios Torrequebrada' with Sea View, Pool & Wi-Fi",
     location: "Costa del Sol, Spain",
     price: "From ~ $5700/night",
@@ -1741,7 +1741,7 @@
     affiliateLink: "https://expedia.com/affiliates/benalmadena-hotels-luxury-villa-larios-torrequebrada-with-sea-view.sTBMQTt" 
   },
   {
-    id: 145,
+    id: 146,
     name: "Cortijo Alegría - Up to 28 Guests | Perfect for Groups, Families & Events - Private Pool",
     location: "Costa del Sol, Spain",
     price: "From ~ $8700/night",
@@ -1751,18 +1751,6 @@
     amenities: ["WiFi", "Air Conditioning", "Pool", "Parking", "Kitchen", "Fireplace", "Washer"],
     region: "Europe",
     affiliateLink: "https://expedia.com/affiliates/mijas-hotels-villa-cortijo-alegria-10-apartments-with-private-pool.aZupXFA" 
-  },
-  {
-    id: 146,
-    name: "Villa '11 Sunset' with Mountain View, Wi-Fi and Air Conditioning",
-    location: "Costa del Sol, Spain",
-    price: "From ~ $8400/night",
-    rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/112000000/111820000/111814700/111814624/03b0433b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Villa '11 Sunset' with Mountain View, Wi-Fi and Air Conditioning",
-    amenities: ["WiFi", "Air Conditioning", "Pool", "Hot Tub", "Parking", "Kitchen", "Washer"],
-    region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/marbella-hotels-villa-11-sunset-with-mountain-view.5IQmyd9" 
   },
   {
     id: 147,
@@ -3183,7 +3171,7 @@
   {
     id: 265,
     name: "The Japanese House by Bridge Retreats",
-    location: "Ras Al Khaimah",
+    location: "Ras Al Khaimah, UAE",
     price: "From ~ $1400/night",
     rating: "9.6/10",
     image: "https://images.trvl-media.com/lodging/110000000/109880000/109871900/109871882/dda38a5f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -3195,7 +3183,7 @@
   {
     id: 266,
     name: "Holiday Villa Ras Al Khaimah",
-    location: "Ras Al Khaimah",
+    location: "Ras Al Khaimah, UAE",
     price: "From ~ $500/night",
     rating: "10/10",
     image: "https://images.trvl-media.com/lodging/89000000/88900000/88897500/88897410/6fd9dc40.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -3207,7 +3195,7 @@
   {
     id: 267,
     name: "2 Bedrooms beach Villa",
-    location: "Ras Al Khaimah",
+    location: "Ras Al Khaimah, UAE",
     price: "From ~ $2300/night",
     rating: "10/10",
     image: "https://images.trvl-media.com/lodging/97000000/96840000/96833300/96833293/52d18813.jpg?impolicy=resizecrop&rw=1200&ra=fit",
@@ -3506,18 +3494,6 @@
   },
   {
     id: 292,
-    name: "Ocean Front Palacio Tropical",
-    location: "Guanacaste, Costa Rica",
-    price: "From ~ $3600/night",
-    rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/113000000/112210000/112205000/112204919/2074d0ea.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Palacio Tropical is a private oceanfront 7-bedroom villa in Puntarenas with a pool, sea views, and easy access to local attractions.",
-    amenities: ["Parking", "Pet Friendly", "Air Conditioning", "Pool", "Free WiFi"],
-    region: "North America",
-    affiliateLink: "https://expedia.com/affiliates/cobano-hotels-ocean-front-palacio-tropical.4Vc0PR3" 
-  },
-  {
-    id: 293,
     name: "Pacific Ocean Front View Villa with Chef, concierge and daily cleaning",
     location: "Guanacaste, Costa Rica",
     price: "From ~ $1700/night",
@@ -3529,7 +3505,7 @@
     affiliateLink: "https://expedia.com/affiliates/puerto-carrillo-hotels-ocean-front-elegance-with-chef.E7pSpJY" 
   },
   {
-    id: 294,
+    id: 293,
     name: "Beach Villa",
     location: "Guanacaste, Costa Rica",
     price: "From ~ $1300/night",
@@ -3541,7 +3517,7 @@
     affiliateLink: "https://expedia.com/affiliates/cabo-velas-hotels-beach-villa.6n9LmoW" 
   },
   {
-    id: 295,
+    id: 294,
     name: "Ocean view villa 2 minutes from the surf",
     location: "Guanacaste, Costa Rica",
     price: "From ~ $1300/night",
@@ -3553,7 +3529,7 @@
     affiliateLink: "https://expedia.com/affiliates/cobano-hotels-ocean-view-villa-2-minutes-from-the-surf.QkKZyu9" 
   },
   {
-    id: 296,
+    id: 295,
     name: "Unique designed villa, surrounded by tropical landscapes, in the very center.",
     location: "Guanacaste, Costa Rica",
     price: "From ~ $1000/night",
@@ -3565,7 +3541,7 @@
     affiliateLink: "https://expedia.com/affiliates/la-fortuna-hotels-unique-designed-villa.KV34UJ5" 
   },
   {
-    id: 297,
+    id: 296,
     name: "Brisas Del Mar Hills of Portalon 3 Bedroom Villa Amazing Ocean Views 4X4 Req'd",
     location: "Manuel Antonio, Costa Rica",
     price: "From ~ $700/night",
@@ -3577,7 +3553,7 @@
     affiliateLink: "https://expedia.com/affiliates/savegre-hotels-brisas-del-mar-hills-of-portalon-3-bedroom-villa-amazing-ocean-views-4x4-reqd.o7QE9kG" 
   },
   {
-    id: 298,
+    id: 297,
     name: "3 Toed Abode 3 bedroom in Manuel Antonio Center",
     location: "Manuel Antonio, Costa Rica",
     price: "From ~ $300/night",
@@ -3589,7 +3565,7 @@
     affiliateLink: "https://expedia.com/affiliates/manuel-antonio-hotels-3-toed-abode-3-bedroom-in-manuel-antonio-center.l1p7fFO" 
   },
   {
-    id: 299,
+    id: 298,
     name: "Sea & Shadow house in front of Marina Pez Vela",
     location: "Manuel Antonio, Costa Rica",
     price: "From ~ $300/night",
@@ -3601,7 +3577,7 @@
     affiliateLink: "https://expedia.com/affiliates/quepos-hotels-sea-shadow-house-in-front-of-marina-pez-vela.wHbtLXe" 
   },
   {
-    id: 300,
+    id: 299,
     name: "Ocean Front Palacio Tropical",
     location: "Santa Teresa, Costa Rica",
     price: "From ~ $3600/night",
@@ -3613,7 +3589,7 @@
     affiliateLink: "https://expedia.com/affiliates/cobano-hotels-ocean-front-palacio-tropical.bU7IiTW" 
   },
   {
-    id: 301,
+    id: 300,
     name: "Villa Ocio",
     location: "Santa Teresa, Costa Rica",
     price: "From ~ $2600/night",
@@ -3625,7 +3601,7 @@
     affiliateLink: "https://expedia.com/affiliates/cobano-hotels-villa-ocio.Gcfphpp" 
   },
   {
-    id: 302,
+    id: 301,
     name: "Villa Nimbu",
     location: "Santa Teresa, Costa Rica",
     price: "From ~ $2000/night",
@@ -3637,7 +3613,7 @@
     affiliateLink: "https://expedia.com/affiliates/cobano-hotels-villa-nimbu.pZxaOFJ" 
   },
   {
-    id: 303,
+    id: 302,
     name: "Blanco Mar Ocean View 3-bedroom villa in Santa Teresa",
     location: "Santa Teresa, Costa Rica",
     price: "From ~ $700/night",
@@ -3649,7 +3625,7 @@
     affiliateLink: "https://expedia.com/affiliates/cobano-hotels-blanco-mar-ocean-view-3-bedroom-villa-in-santa-teresa.1JOHm28" 
   },
   {
-    id: 304,
+    id: 303,
     name: "Villa Quebrada Estate",
     location: "Santa Teresa, Costa Rica",
     price: "From ~ $650/night",
@@ -3661,7 +3637,7 @@
     affiliateLink: "https://expedia.com/affiliates/puntarenas-hotels-villa-quebrada-estate.5hGJc10" 
   },
   {
-    id: 305,
+    id: 304,
     name: "Playa Pelada/N. Guiones Luxury home, 5 min. Walk to Beach and Restaurants",
     location: "Nosara, Costa Rica",
     price: "From ~ $700/night",
@@ -3673,7 +3649,7 @@
     affiliateLink: "https://expedia.com/affiliates/nosara-hotels-playa-peladan-guiones-luxury-home.0aReiWs" 
   },
   {
-    id: 306,
+    id: 305,
     name: "Crystal Jamaica Villa",
     location: "Montego Bay, Jamaica",
     price: "From ~ $1300/night",
@@ -3685,7 +3661,7 @@
     affiliateLink: "https://expedia.com/affiliates/montego-bay-hotels-crystal-jamaica-villa.vNXv5bq" 
   },
   {
-    id: 307,
+    id: 306,
     name: "Khastle Khodero",
     location: "Montego Bay, Jamaica",
     price: "From ~ $1500/night",
@@ -3697,7 +3673,7 @@
     affiliateLink: "https://expedia.com/affiliates/montego-bay-hotels-khastle-khodero.ppZqw3h" 
   },
   {
-    id: 308,
+    id: 307,
     name: "Clarridge View Villa. A view of the Caribbean sea",
     location: "Montego Bay, Jamaica",
     price: "From ~ $1600/night",
@@ -3709,7 +3685,7 @@
     affiliateLink: "https://expedia.com/affiliates/montego-bay-hotels-clarridge-viewl-villa-a-view-of-the-caribbean-sea.Uj9CLNR" 
   },
   {
-    id: 309,
+    id: 308,
     name: "Hospitality Expert GREENS Estate: 6BR, Pool, Beach, Chef",
     location: "Montego Bay, Jamaica",
     price: "From ~ $1500/night",
@@ -3721,7 +3697,7 @@
     affiliateLink: "https://expedia.com/affiliates/montego-bay-hotels-hospitality-expert-greens-6br.A2FYG39" 
   },
   {
-    id: 310,
+    id: 309,
     name: "Lavender Moon Villas",
     location: "Ocho Rios, Jamaica",
     price: "From ~ $8800/night",
@@ -3733,7 +3709,7 @@
     affiliateLink: "https://expedia.com/affiliates/ocho-rios-hotels-lavender-moon-villas.zrnJOaX" 
   },
   {
-    id: 311,
+    id: 310,
     name: "Honey Cove Luxury Villa w/pool-5 mins away from Ocho Rios town",
     location: "Ocho Rios, Jamaica",
     price: "From ~ $370/night",
@@ -3745,7 +3721,7 @@
     affiliateLink: "https://expedia.com/affiliates/ocho-rios-hotels-honey-cove-luxury-villa-wpool-5-mins-away-from-ocho-rios-town.dCU8DXu" 
   },
   {
-    id: 312,
+    id: 311,
     name: "Honey’s 3BD 5 minutes away Ocho Rios & all major attractions",
     location: "Ocho Rios, Jamaica",
     price: "From ~ $400/night",
@@ -3757,7 +3733,7 @@
     affiliateLink: "https://expedia.com/affiliates/ocho-rios-hotels-honeys-3bd-5-minutes-away-ocho-rios-all-major-attractions.8JhqwXO" 
   },
   {
-    id: 313,
+    id: 312,
     name: "Spicy Hill Villa, One Of Jamaica's Best-Kept Secrets",
     location: "Port Antonio, Jamaica",
     price: "From ~ $1000/night",
@@ -3769,7 +3745,7 @@
     affiliateLink: "https://expedia.com/affiliates/port-antonio-hotels-spicy-hill-villa.HIRmWRB" 
   },
   {
-    id: 314,
+    id: 313,
     name: "One Bedroom Sea View Villa, Frenchman's Cove Resort",
     location: "Port Antonio, Jamaica",
     price: "From ~ $200/night",
@@ -3781,7 +3757,7 @@
     affiliateLink: "https://expedia.com/affiliates/port-antonio-hotels-1-bedroom-sea-view-villa.H1HTfr4" 
   },
   {
-    id: 315,
+    id: 314,
     name: "Villa Citronella Sea View",
     location: "Mahe, Seychelles",
     price: "From ~ $1100/night",
@@ -3793,7 +3769,7 @@
     affiliateLink: "https://expedia.com/affiliates/mahe-island-hotels-villa-citronella-sea-view.vuVSDbR" 
   },
   {
-    id: 316,
+    id: 315,
     name: "South Hill Villa",
     location: "Mahe, Seychelles",
     price: "From ~ $850/night",
@@ -3805,7 +3781,7 @@
     affiliateLink: "https://expedia.com/affiliates/mahe-island-hotels-surrounded-by-naturetranquillity-at-its-best.Q0RA3Mz" 
   },
   {
-    id: 317,
+    id: 316,
     name: "Chateau Elysium - Two bedroom villa 1",
     location: "Mahe, Seychelles",
     price: "From ~ $700/night",
@@ -3817,7 +3793,7 @@
     affiliateLink: "https://expedia.com/affiliates/mahe-island-hotels-chateau-elysium-two-bedroom-villa-1.zHrMwzC" 
   },
   {
-    id: 318,
+    id: 317,
     name: "Mouggae Blues Villas",
     location: "Mahe, Seychelles",
     price: "From ~ $250/night",
@@ -3829,7 +3805,7 @@
     affiliateLink: "https://expedia.com/affiliates/mahe-island-hotels-mouggae-blues-villas.XrKlNfr" 
   },
   {
-    id: 319,
+    id: 318,
     name: "A private villa with a pool",
     location: "Praslin, Seychelles",
     price: "From ~ $400/night",
@@ -3841,7 +3817,7 @@
     affiliateLink: "https://expedia.com/affiliates/praslin-island-hotels-a-private-villa-with-a-pool.RtWnW3W" 
   },
   {
-    id: 320,
+    id: 319,
     name: "2 Pools 5500 m² Garden Family & Events, Pet Yalıkavak -16+ guests",
     location: "Bodrum, Turkey",
     price: "From ~ $2700/night",
@@ -3853,7 +3829,7 @@
     affiliateLink: "https://expedia.com/affiliates/bodrum-hotels-2-pools-5500-m2-garden-family-events.Bkwsmy6" 
   },
   {
-    id: 321,
+    id: 320,
     name: "Villa Loca",
     location: "Bodrum, Turkey",
     price: "From ~ $2700/night",
@@ -3862,10 +3838,10 @@
     description: "Villa with free parking, near Yalikavak Marina",
     amenities: ["WiFi", "Air Conditioning", "Pool", "Parking", "Kitchen", "Washer", "Garden"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/lloret-de-mar-hotels-villa-bergantin-with-sea-view.kkTjwRG" 
+    affiliateLink: "https://expedia.com/affiliates/bodrum-hotels-villa-loca.Zmk7Tkm" 
   },
   {
-    id: 322,
+    id: 321,
     name: "Luxury Villa with sea view",
     location: "Bodrum, Turkey",
     price: "From ~ $2100/night",
@@ -3877,7 +3853,7 @@
     affiliateLink: "https://expedia.com/affiliates/bodrum-hotels-luxury-villa-with-sea-view.cd7sOTZ" 
   },
   {
-    id: 323,
+    id: 322,
     name: "Uzun Ev by Ertem Homes",
     location: "Bodrum, Turkey",
     price: "From ~ $1900/night",
@@ -3889,7 +3865,7 @@
     affiliateLink: "https://expedia.com/affiliates/datca-hotels-uzun-ev-by-ertem-homes.B5a5y5z" 
   },
   {
-    id: 324,
+    id: 323,
     name: "Ultra lüks villa",
     location: "Antalya, Turkey",
     price: "From ~ $1100/night",
@@ -3901,7 +3877,7 @@
     affiliateLink: "https://expedia.com/affiliates/antalya-hotels-ultra-luks-villa.LZRTljU" 
   },
   {
-    id: 325,
+    id: 324,
     name: "Luxury Homes in Sultanahmet",
     location: "Istanbul, Turkey",
     price: "From ~ $500/night",
@@ -3913,7 +3889,7 @@
     affiliateLink: "https://expedia.com/affiliates/istanbul-hotels-luxury-homes-in-sultanahmet.qh95W8k" 
   },
   {
-    id: 326,
+    id: 325,
     name: "Villa Sunset Cesme for 10-12 persons Alacati Cesme center 10 min",
     location: "Cesme, Turkey",
     price: "From ~ $1200/night",
@@ -3925,7 +3901,7 @@
     affiliateLink: "https://expedia.com/affiliates/cesme-hotels-villa-5-rooms-alacati-cesme-center-10-min-peaceful.zfE3TN1" 
   },
   {
-    id: 327,
+    id: 326,
     name: "De-Lale Villa",
     location: "Cesme, Turkey",
     price: "From ~ $450/night",
@@ -3937,7 +3913,7 @@
     affiliateLink: "https://expedia.com/affiliates/cesme-hotels-de-lale-villa.QCCtkZC" 
   },
   {
-    id: 328,
+    id: 327,
     name: "4-bedroom villa in welcoming Alaçatı with AC, WiFi. Enjoy your stay",
     location: "Cesme, Turkey",
     price: "From ~ $340/night",
@@ -3949,7 +3925,7 @@
     affiliateLink: "https://expedia.com/affiliates/cesme-hotels-4-bedroom-villa-in-welcoming-alacat-with-ac.mKdkiKq" 
   },
   {
-    id: 329,
+    id: 328,
     name: "Camps Bay Ocean View Villa with Pool",
     location: "Cape Town, South Africa",
     price: "From ~ $2400/night",
@@ -3961,7 +3937,7 @@
     affiliateLink: "https://expedia.com/affiliates/cape-town-hotels-camps-bay-ocean-view-villa-with-pool.Tgmz5Pt" 
   },
   {
-    id: 330,
+    id: 329,
     name: "La Clé Village",
     location: "Cape Town, South Africa",
     price: "From ~ $1600/night",
@@ -3973,7 +3949,7 @@
     affiliateLink: "https://expedia.com/affiliates/cape-town-hotels-la-cle-village.NUYSlay" 
   },
   {
-    id: 331,
+    id: 330,
     name: "Hutchinson Villa",
     location: "Cape Town, South Africa",
     price: "From ~ $1200/night",
@@ -3985,7 +3961,7 @@
     affiliateLink: "https://expedia.com/affiliates/cape-town-hotels-hutchinson-villa.Iu7R334" 
   },
   {
-    id: 332,
+    id: 331,
     name: "Beach villa with breathtaking views of mountains and sea",
     location: "Cape Town, South Africa",
     price: "From ~ $1000/night",
@@ -3997,7 +3973,7 @@
     affiliateLink: "https://expedia.com/affiliates/cape-town-hotels-beach-villa-with-a-breath-taking-view-of-the-mountains-and-the-sea.PM7Nygu" 
   },
   {
-    id: 333,
+    id: 332,
     name: "Buccara Noetzie - Pezula Castle",
     location: "Knysna, South Africa",
     price: "From ~ $1100/night",
@@ -4009,7 +3985,7 @@
     affiliateLink: "https://expedia.com/affiliates/knysna-hotels-pezula-private-castle.BHvgruG" 
   },
   {
-    id: 334,
+    id: 333,
     name: "Lombard Luxury Villa. A dream holiday home",
     location: "Knysna, South Africa",
     price: "From ~ $1100/night",
@@ -4021,7 +3997,7 @@
     affiliateLink: "https://expedia.com/affiliates/the-crags-hotels-lombard-luxury-villa-a-dream-holiday-home.U255IHm" 
   },
   {
-    id: 335,
+    id: 334,
     name: "Buccara Noetzie - Craighross Castle",
     location: "Knysna, South Africa",
     price: "From ~ $660/night",
@@ -4033,7 +4009,7 @@
     affiliateLink: "https://expedia.com/affiliates/knysna-hotels-craighross-castle.gArm0TG" 
   },
   {
-    id: 336,
+    id: 335,
     name: "Katara Hills Doha, Lxr Hotels & Resorts",
     location: "Doha, Qatar",
     price: "From ~ $1200/night",
@@ -4045,7 +4021,7 @@
     affiliateLink: "https://expedia.com/affiliates/doha-hotels-katara-hills-doha.4fQtusE" 
   },
   {
-    id: 337,
+    id: 336,
     name: "Maysan Doha, LXR Hotels & Resorts",
     location: "Doha, Qatar",
     price: "From ~ $600/night",
@@ -4057,7 +4033,7 @@
     affiliateLink: "https://expedia.com/affiliates/doha-hotels-qamara-doha.cKf7QsS" 
   },
   {
-    id: 338,
+    id: 337,
     name: "Simaisma, A Murwab Resort",
     location: "Doha, Qatar",
     price: "From ~ $550/night",
@@ -4069,7 +4045,7 @@
     affiliateLink: "https://expedia.com/affiliates/simaisma-hotels-simaisma.5YGtiLG" 
   },
   {
-    id: 339,
+    id: 338,
     name: "Banana Island Resort Doha By Anantara",
     location: "Doha, Qatar",
     price: "From ~ $370/night",
@@ -4081,7 +4057,7 @@
     affiliateLink: "https://expedia.com/affiliates/doha-hotels-banana-island-resort-doha-by-anantara.mEZgW4i" 
   },
   {
-    id: 340,
+    id: 339,
     name: "Waldorf Astoria Doha Lusail",
     location: "Doha, Qatar",
     price: "From ~ $300/night",
@@ -4093,7 +4069,7 @@
     affiliateLink: "https://expedia.com/affiliates/doha-hotels-waldorf-astoria-lusail.MmWaKp8" 
   },
   {
-    id: 341,
+    id: 340,
     name: "Villa Garden & Pool View",
     location: "Muscat, Oman",
     price: "From ~ $1300/night",
@@ -4105,7 +4081,7 @@
     affiliateLink: "https://expedia.com/affiliates/muscat-hotels-villa-with-private-pool.W5PZjr6" 
   },
   {
-    id: 342,
+    id: 341,
     name: "Villa Lagoon & Mountain View",
     location: "Muscat, Oman",
     price: "From ~ $1300/night",
@@ -4117,7 +4093,7 @@
     affiliateLink: "https://expedia.com/affiliates/muscat-hotels-villa-lagoon-mountain-view.hJpdazj" 
   },
   {
-    id: 343,
+    id: 342,
     name: "LUXURY VILLA",
     location: "Muscat, Oman",
     price: "From ~ $1000/night",
@@ -4129,7 +4105,7 @@
     affiliateLink: "https://expedia.com/affiliates/muscat-hotels-luxury-villa.mhXXS9p" 
   },
   {
-    id: 344,
+    id: 343,
     name: "Villa Abrazos",
     location: "Ambergris Caye, Belize",
     price: "From ~ $2300/night",
@@ -4141,7 +4117,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-pedro-hotels-villa-abrazos.XttdmSP" 
   },
   {
-    id: 345,
+    id: 344,
     name: "Comfortable Villa with sea view",
     location: "Ambergris Caye, Belize",
     price: "From ~ $700/night",
@@ -4153,7 +4129,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-pedro-hotels-babylon-beach-villa-2.Su3E3g0" 
   },
   {
-    id: 346,
+    id: 345,
     name: "Beachfront family villa",
     location: "Ambergris Caye, Belize",
     price: "From ~ $650/night",
@@ -4165,7 +4141,7 @@
     affiliateLink: "https://expedia.com/affiliates/ko-lanta-hotels-arthaya-villas.9QspLIg" 
   },
   {
-    id: 347,
+    id: 346,
     name: "Casa De Moya at Mahogany Bay & The PoolClub",
     location: "Ambergris Caye, Belize",
     price: "From ~ $600/night",
@@ -4177,7 +4153,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-pedro-hotels-casa-de-moya-at-mahogany-bay-the-poolclub.0wQIafR" 
   },
   {
-    id: 348,
+    id: 347,
     name: "Seabird Belize Vacation Rentals",
     location: "Placencia, Belize",
     price: "From ~ $850/night",
@@ -4189,7 +4165,7 @@
     affiliateLink: "https://expedia.com/affiliates/placencia-hotels-seabird-belize.oYwuOwS" 
   },
   {
-    id: 349,
+    id: 348,
     name: "Sandpiper Sanctuary 4 bed 3 bath Villa with a pool, 4 bedroom 3 bath villa with pool",
     location: "Placencia, Belize",
     price: "From ~ $800/night",
@@ -4201,7 +4177,7 @@
     affiliateLink: "https://expedia.com/affiliates/placencia-hotels-sandpiper-sanctuary-4-bed-3-bath-villa-4.QzBhbJV" 
   },
   {
-    id: 350,
+    id: 349,
     name: "YOUR OWN PRIVATE RESORT ESTATE",
     location: "Shoal Bay, Anguilla",
     price: "From ~ $23700/night",
@@ -4213,7 +4189,7 @@
     affiliateLink: "https://expedia.com/affiliates/the-valley-hotels-your-own-private-resort-estate.np1atKN" 
   },
   {
-    id: 351,
+    id: 350,
     name: "Sheriva Luxury Villas and Suites",
     location: "Shoal Bay, Anguilla",
     price: "From ~ $5700/night",
@@ -4225,7 +4201,7 @@
     affiliateLink: "https://expedia.com/affiliates/chiang-mai-hotels-the-one-villa-is-a-high-quality-villa-within-reach-of-chiang-mai.x8xF5iI" 
   },
   {
-    id: 352,
+    id: 351,
     name: "Lovely 6-bedroom Villa with Pool",
     location: "Shoal Bay, Anguilla",
     price: "From ~ $4000/night",
@@ -4237,7 +4213,7 @@
     affiliateLink: "https://expedia.com/affiliates/island-harbour-hotels-lovely-6-bedroom-villa-with-pool.XABy6EA" 
   },
   {
-    id: 353,
+    id: 352,
     name: "Spacious 5-bedroom villa in enchanting Cap Estate, St Lucia with infinity pool",
     location: "Rodney Bay, St. Lucia",
     price: "From ~ $1700/night",
@@ -4249,7 +4225,7 @@
     affiliateLink: "https://expedia.com/affiliates/gros-islet-hotels-spacious-5-bedroom-villa-in-enchanting-cap-estate.yYEx642" 
   },
   {
-    id: 354,
+    id: 353,
     name: "Luxury 5BD Loft Located In Rodney Bay",
     location: "Rodney Bay, St. Lucia",
     price: "From ~ $1000/night",
@@ -4261,7 +4237,7 @@
     affiliateLink: "https://expedia.com/affiliates/gros-islet-hotels-luxury-villa-located-in-prime-location-5bd.SCZb1DC" 
   },
   {
-    id: 355,
+    id: 354,
     name: "Luxury 5BD Villa - Massive Pool & Outdoor Vibe",
     location: "Rodney Bay, St. Lucia",
     price: "From ~ $1000/night",
@@ -4273,7 +4249,7 @@
     affiliateLink: "https://expedia.com/affiliates/gros-islet-hotels-villa.s2c9N4W" 
   },
   {
-    id: 356,
+    id: 355,
     name: "HOLIDAY DISCOUNTS!! PANORAMIC SEA VIEWS! LUXURY, POOL, OVERLOOKS JOLLY HARBOUR",
     location: "Jolly Harbour, Antigua and Barbuda",
     price: "From ~ $1000/night",
@@ -4285,7 +4261,7 @@
     affiliateLink: "https://expedia.com/affiliates/jennings-hotels-holiday-discounts-panoramic-sea-views-luxury.8QVdneE" 
   },
   {
-    id: 357,
+    id: 356,
     name: "Galleon Beach Resort",
     location: "English Harbour, Antigua and Barbuda",
     price: "From ~ $340/night",
@@ -4297,7 +4273,7 @@
     affiliateLink: "https://expedia.com/affiliates/english-harbour-hotels-galleon-beach-resort.nUTGYJM" 
   },
   {
-    id: 358,
+    id: 357,
     name: "El Sitio Villas",
     location: "Pedasi, Panama",
     price: "From ~ $300/night",
@@ -4309,7 +4285,7 @@
     affiliateLink: "https://expedia.com/affiliates/las-escobas-del-venado-hotels-el-sitio-villas.ZIhElp7" 
   },
   {
-    id: 359,
+    id: 358,
     name: "Ocean Breeze Cove - Adults Only - Luxury Retreat",
     location: "Pedasi, Panama",
     price: "From ~ $200/night",
@@ -4321,7 +4297,7 @@
     affiliateLink: "https://expedia.com/affiliates/pedasi-hotels-ocean-breeze-cove-adults-only-luxury-retreat.CFciS42" 
   },
   {
-    id: 360,
+    id: 359,
     name: "HERITAGE VILLA WITH GYM- BREAKFAST- POOL",
     location: "Da Nang, Vietnam",
     price: "From ~ $5600/night",
@@ -4333,7 +4309,7 @@
     affiliateLink: "https://expedia.com/affiliates/da-nang-hotels-heritage-villa-with-gym-breakfast-pool.BrCN4CJ" 
   },
   {
-    id: 361,
+    id: 360,
     name: "May Villa 6BR Oceanview An Bang Beach",
     location: "Da Nang, Vietnam",
     price: "From ~ $2500/night",
@@ -4345,7 +4321,7 @@
     affiliateLink: "https://expedia.com/affiliates/da-nang-hotels-may-villa-6br-oceanview-an-bang-beach.PMRsGKH" 
   },
   {
-    id: 362,
+    id: 361,
     name: "The villas Catalan - Beachforn - VIP",
     location: "Da Nang, Vietnam",
     price: "From ~ $2000/night",
@@ -4357,7 +4333,7 @@
     affiliateLink: "https://expedia.com/affiliates/bouvet-island-hotels-vrbo-property.5cGVFOI" 
   },
   {
-    id: 363,
+    id: 362,
     name: "Sunrise Ocean Villa 4BR Tan Thanh Beach",
     location: "Da Nang, Vietnam",
     price: "From ~ $2000/night",
@@ -4369,7 +4345,7 @@
     affiliateLink: "https://expedia.com/affiliates/da-nang-hotels-sunrise-ocean-villa-4br-tan-thanh-beach.7bdQos4" 
   },
   {
-    id: 364,
+    id: 363,
     name: "Sea Easter 3BR Seaside An Bang Beach",
     location: "Da Nang, Vietnam",
     price: "From ~ $1900/night",
@@ -4381,7 +4357,7 @@
     affiliateLink: "https://expedia.com/affiliates/da-nang-hotels-sea-easter-3br-seaside-an-bang-beach.7lFaPJk" 
   },
   {
-    id: 365,
+    id: 364,
     name: "Kiwuki Luxury Villa with private beach in Phu Quoc",
     location: "Phu Quoc, Vietnam",
     price: "From ~ $600/night",
@@ -4393,7 +4369,7 @@
     affiliateLink: "https://expedia.com/affiliates/phu-quoc-hotels-kiwuki-luxury-villa-with-private-beach-in-phu-quoc.uXCCDfY" 
   },
   {
-    id: 366,
+    id: 365,
     name: "4 bedrooms villa, 10 minutes walk to the beach, 10 minutes to airport/center",
     location: "Phu Quoc, Vietnam",
     price: "From ~ $430/night",
@@ -4405,7 +4381,7 @@
     affiliateLink: "https://expedia.com/affiliates/phu-quoc-hotels-4-bedrooms-villa.eY3i2In" 
   },
   {
-    id: 367,
+    id: 366,
     name: "Peppercorn Villas",
     location: "Phu Quoc, Vietnam",
     price: "From ~ $420/night",
@@ -4417,7 +4393,7 @@
     affiliateLink: "https://expedia.com/affiliates/phu-quoc-hotels-peppercorn-villas.m6eHLC1" 
   },
   {
-    id: 368,
+    id: 367,
     name: "Lucina Villa - 4 Bedrooms with Infinity Pool",
     location: "Nha Trang, Vietnam",
     price: "From ~ $900/night",
@@ -4429,7 +4405,7 @@
     affiliateLink: "https://expedia.com/affiliates/nha-trang-hotels-vrbo-property.pcRhxi4" 
   },
   {
-    id: 369,
+    id: 368,
     name: "Venity Villa Nha Trang",
     location: "Nha Trang, Vietnam",
     price: "From ~ $500/night",
@@ -4441,7 +4417,7 @@
     affiliateLink: "https://expedia.com/affiliates/nha-trang-hotels-venity-villa-nha-trang.hhC1BJA" 
   },
   {
-    id: 370,
+    id: 369,
     name: "Acqua Villa Nha Trang",
     location: "Nha Trang, Vietnam",
     price: "From ~ $500/night",
@@ -4453,7 +4429,7 @@
     affiliateLink: "https://expedia.com/affiliates/nha-trang-hotels-acqua-villa-nha-trang.jcDbgab" 
   },
   {
-    id: 371,
+    id: 370,
     name: "The Five Villas",
     location: "Hoi An, Vietnam",
     price: "From ~ $1400/night",
@@ -4465,7 +4441,7 @@
     affiliateLink: "https://expedia.com/affiliates/da-nang-hotels-the-five-villas.vLYeNrZ" 
   },
   {
-    id: 372,
+    id: 371,
     name: "Mayumi Beach Villa",
     location: "Boracay, Philippines",
     price: "From ~ $700/night",
@@ -4477,7 +4453,7 @@
     affiliateLink: "https://expedia.com/affiliates/boracay-island-hotels-mayumi-beach-villa.7ymscNn" 
   },
   {
-    id: 373,
+    id: 372,
     name: "Unique Beach Villa in White Beach Boracay- Perfect for your getaway",
     location: "Boracay, Philippines",
     price: "From ~ $200/night",
@@ -4489,7 +4465,7 @@
     affiliateLink: "https://expedia.com/affiliates/unique-beach-villa-in-white-beach-boracay-perfect-for-your-getaway.n1iBSzM" 
   },
   {
-    id: 374,
+    id: 373,
     name: "One Hagdan Villas",
     location: "Boracay, Philippines",
     price: "From ~ $170/night",
@@ -4501,7 +4477,7 @@
     affiliateLink: "https://expedia.com/affiliates/boracay-island-hotels-one-hagdan-villas.7QKW8BH" 
   },
   {
-    id: 375,
+    id: 374,
     name: "Perch El Nido",
     location: "Palawan, Philippines",
     price: "From ~ $2400/night",
@@ -4513,7 +4489,7 @@
     affiliateLink: "https://expedia.com/affiliates/el-nido-hotels-perch-el-nido.bcWOJ1R" 
   },
   {
-    id: 376,
+    id: 375,
     name: "Terra Nova El Nido - individual Luxury Villas - W/ISLANDS TOURS",
     location: "Palawan, Philippines",
     price: "From ~ $1000/night",
@@ -4525,7 +4501,7 @@
     affiliateLink: "https://expedia.com/affiliates/taytay-hotels-terra-nova-el-nido-individual-luxury-villas-wislands-tours.itgAEpE" 
   },
   {
-    id: 377,
+    id: 376,
     name: "Bahay Artisano",
     location: "Palawan, Philippines",
     price: "From ~ $700/night",
@@ -4537,7 +4513,7 @@
     affiliateLink: "https://expedia.com/affiliates/el-nido-hotels-bahay-artisano.wOnDcYa" 
   },
   {
-    id: 378,
+    id: 377,
     name: "Yumi Villas Port Barton",
     location: "Palawan, Philippines",
     price: "From ~ $400/night",
@@ -4549,7 +4525,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-vicente-hotels-yumi-villas-port-barton.ad6ROwd" 
   },
   {
-    id: 379,
+    id: 378,
     name: "Create unforgettable memories in our charming and affordable villa — Book now!",
     location: "Cebu, Philippines",
     price: "From ~ $4300/night",
@@ -4561,7 +4537,7 @@
     affiliateLink: "https://expedia.com/affiliates/moalboal-hotels-create-unforgettable-memories-in-our-charming-and-affordable-villa-book-now.MvoI4fH" 
   },
   {
-    id: 380,
+    id: 379,
     name: "Luxury Retreat High Above the Crowd",
     location: "Cebu, Philippines",
     price: "From ~ $600/night",
@@ -4573,7 +4549,7 @@
     affiliateLink: "https://expedia.com/affiliates/cebu-hotels-luxury-retreat-high-above-the-crowd.u12iCdR" 
   },
   {
-    id: 381,
+    id: 380,
     name: "Anza Mactan Beach House 5 bedroom Villa w/ Private Pool & Beachfront",
     location: "Cebu, Philippines",
     price: "From ~ $500/night",
@@ -4585,7 +4561,7 @@
     affiliateLink: "https://expedia.com/affiliates/lapu-lapu-hotels-anza-mactan-beach-house-5-bedroom-villa-w-private-pool-beachfront.C1SNsPa" 
   },
   {
-    id: 382,
+    id: 381,
     name: "Dazzling Lozica Villa | 5 Bedrooms |",
     location: "Dubrovnik, Croatia",
     price: "From ~ $3500/night",
@@ -4597,7 +4573,7 @@
     affiliateLink: "https://expedia.com/affiliates/dubrovnik-hotels-dazzling-lozica-villa-5-bedrooms-villa-pasija-steam-room-private-plateau-beach.lrZQmaY" 
   },
   {
-    id: 383,
+    id: 382,
     name: "Captivating Dubrovnik Villa",
     location: "Dubrovnik, Croatia",
     price: "From ~ $2500/night",
@@ -4609,7 +4585,7 @@
     affiliateLink: "https://expedia.com/affiliates/dubrovacko-primorje-hotels-captivating-dubrovnik-villa-villa-belle-riviere-private-infinity-pool-next-to-the-sea-slano.0liuwRq" 
   },
   {
-    id: 384,
+    id: 383,
     name: "Villa Pizzelli",
     location: "Dubrovnik, Croatia",
     price: "From ~ $2400/night",
@@ -4621,7 +4597,7 @@
     affiliateLink: "https://expedia.com/affiliates/dubrovnik-hotels-villa-pizzelli.JqdOz8o" 
   },
   {
-    id: 385,
+    id: 384,
     name: "Villa Borna Apartments",
     location: "Dubrovnik, Croatia",
     price: "From ~ $450/night",
@@ -4633,7 +4609,7 @@
     affiliateLink: "https://expedia.com/affiliates/dubrovnik-hotels-villa-borna-apartments.1etPWRN" 
   },
   {
-    id: 386,
+    id: 385,
     name: "Large villa with private,heated,infinity pool, Jacuzzi bath,sport games,bikes...",
     location: "Hvar, Croatia",
     price: "From ~ $1400/night",
@@ -4645,7 +4621,7 @@
     affiliateLink: "https://expedia.com/affiliates/hvar-hotels-entire-villa-sonia-teo-with-a-private.AoNpcxm" 
   },
   {
-    id: 387,
+    id: 386,
     name: "4-bedroom Villa Erica with private pool and stunning sea view",
     location: "Hvar, Croatia",
     price: "From ~ $800/night",
@@ -4657,7 +4633,7 @@
     affiliateLink: "https://expedia.com/affiliates/stari-grad-hotels-modern-villa-with-private-pool-and-stunning-sea-view.tDBEj0I" 
   },
   {
-    id: 388,
+    id: 387,
     name: "Villa Richi, unique luxury villa with private beach entrance and indoor pool",
     location: "Split, Croatia",
     price: "From ~ $2300/night",
@@ -4669,7 +4645,7 @@
     affiliateLink: "https://expedia.com/affiliates/slatine-hotels-villa-richi.ENAGjyg" 
   },
   {
-    id: 389,
+    id: 388,
     name: "Villa Kristina",
     location: "Istria, Croatia",
     price: "From ~ $2400/night",
@@ -4681,7 +4657,7 @@
     affiliateLink: "https://expedia.com/affiliates/funtana-hotels-villa-kristina.PApaiU5" 
   },
   {
-    id: 390,
+    id: 389,
     name: "Villa Mare e Sole in a quiet street with a heated saltwater pool and a lot of privacy",
     location: "Istria, Croatia",
     price: "From ~ $1000/night",
@@ -4693,7 +4669,7 @@
     affiliateLink: "https://expedia.com/affiliates/liznjan-hotels-villa-mare-e-sole-in-a-quiet-street-with-a-heated-saltwater-pool-and-a-lot-of-privacy.AMHovq0" 
   },
   {
-    id: 391,
+    id: 390,
     name: "Villa Gardenia represents an ideal combination of comfort, privacy, home warmth",
     location: "Istria, Croatia",
     price: "From ~ $1000/night",
@@ -4705,7 +4681,7 @@
     affiliateLink: "https://expedia.com/affiliates/visnjan-hotels-vila-gardenia-predstavlja-idealan-spoj-komfora.rQMd2KN" 
   },
   {
-    id: 392,
+    id: 391,
     name: "Villa Marea",
     location: "Istria, Croatia",
     price: "From ~ $200/night",
@@ -4717,7 +4693,7 @@
     affiliateLink: "https://expedia.com/affiliates/rovinj-hotels-villa-marea.CWi7m4I" 
   },
   {
-    id: 393,
+    id: 392,
     name: "Frontline Korcula Villa | A Stones Throw to The Beach | Villa Korcula Bay View | Beautiful 3 Bedroom Villa",
     location: "Korčula, Croatia",
     price: "From ~ $11600/night",
@@ -4729,7 +4705,7 @@
     affiliateLink: "https://expedia.com/affiliates/korcula-hotels-frontline-korcula-villa-a-stones-throw-to-the-beach-villa-korcula-bay-view-beautiful-3-bedroom-villa.ZyWkNzv" 
   },
   {
-    id: 394,
+    id: 393,
     name: "Villa Korculaholidays",
     location: "Korčula, Croatia",
     price: "From ~ $500/night",
@@ -4741,7 +4717,7 @@
     affiliateLink: "https://expedia.com/affiliates/korcula-hotels-villa-korculaholidays.7g7G6AT" 
   },
   {
-    id: 395,
+    id: 394,
     name: "Tranquility Villa Johanna",
     location: "Brač, Croatia",
     price: "From ~ $3400/night",
@@ -4753,7 +4729,7 @@
     affiliateLink: "https://expedia.com/affiliates/supetar-hotels-tranquility-villa-johanna.XqiwoUz" 
   },
   {
-    id: 396,
+    id: 395,
     name: "Villa La Dolce Vita",
     location: "Vis, Croatia",
     price: "From ~ $900/night",
@@ -4765,7 +4741,7 @@
     affiliateLink: "https://expedia.com/affiliates/komiza-hotels-villa-la-dolce-vita.a5cCYcG" 
   },
   {
-    id: 397,
+    id: 396,
     name: "Villa Celio Cega",
     location: "Trogir, Croatia",
     price: "From ~ $1700/night",
@@ -4777,7 +4753,7 @@
     affiliateLink: "https://expedia.com/affiliates/trogir-hotels-villa-celio-cega.MHs9FxB" 
   },
   {
-    id: 398,
+    id: 397,
     name: "Villa Trogir Stars",
     location: "Trogir, Croatia",
     price: "From ~ $200/night",
@@ -4789,7 +4765,7 @@
     affiliateLink: "https://expedia.com/affiliates/trogir-hotels-villa-trogir-stars.A82aNdo" 
   },
   {
-    id: 399,
+    id: 398,
     name: "Luxury Waterfront Villa with Private Pool and Private Beach for 12 People",
     location: "Kotor, Montenegro",
     price: "From ~ $1200/night",
@@ -4801,7 +4777,7 @@
     affiliateLink: "https://expedia.com/affiliates/kotor-hotels-large-luxury-waterfront-villa-with-private-pool-for-10-people.cz4uvns" 
   },
   {
-    id: 400,
+    id: 399,
     name: "Casa del Sol Rozalija Luxury Rooms",
     location: "Kotor, Montenegro",
     price: "From ~ $1200/night",
@@ -4813,7 +4789,7 @@
     affiliateLink: "https://expedia.com/affiliates/kotor-hotels-casa-del-sol-rozalija-luxury-rooms.2RCDw4V" 
   },
   {
-    id: 401,
+    id: 400,
     name: "Villa Milica from the 18. century in marvelous Ljuta, Kotor",
     location: "Kotor, Montenegro",
     price: "From ~ $1200/night",
@@ -4825,7 +4801,7 @@
     affiliateLink: "https://expedia.com/affiliates/kotor-hotels-villa-milica-from-the-18-century-in-marvelous-ljuta.CnO4Ed0" 
   },
   {
-    id: 402,
+    id: 401,
     name: "Villa Oniron – A Modern Retreat in the Heart of Coral Bay",
     location: "Paphos, Cyprus",
     price: "From ~ $1200/night",
@@ -4837,7 +4813,7 @@
     affiliateLink: "https://expedia.com/affiliates/pegeia-hotels-villa-oniron-a-modern-retreat-in-the-heart-of-coral-bay.OL0ak9z" 
   },
   {
-    id: 403,
+    id: 402,
     name: "Villa Yria – Modern Comfort in the Heart of Coral Bay",
     location: "Paphos, Cyprus",
     price: "From ~ $1200/night",
@@ -4849,7 +4825,7 @@
     affiliateLink: "https://expedia.com/affiliates/pegeia-hotels-villa-yria-modern-comfort-in-the-heart-of-coral-bay.iZleoMP" 
   },
   {
-    id: 404,
+    id: 403,
     name: "Periyiali Resort - Villa Ira is a Front Line Villa at Konnos Beach Cape Greco",
     location: "Ayia Napa, Cyprus",
     price: "From ~ $1300/night",
@@ -4861,7 +4837,7 @@
     affiliateLink: "https://expedia.com/affiliates/paralimni-hotels-periyiali-resort-villa-ira-is-a-front-line-villa-at-konnos-beach-cape-greco.7CigWf9" 
   },
   {
-    id: 405,
+    id: 404,
     name: "Periyiali Resort - Villa Terpsichori - 18 at Konnos Bay , Cape Greco",
     location: "Ayia Napa, Cyprus",
     price: "From ~ $1000/night",
@@ -4873,7 +4849,7 @@
     affiliateLink: "https://expedia.com/affiliates/paralimni-hotels-periyiali-resort-villa-terpsichori-18-at-konnos-bay.1molxun" 
   },
   {
-    id: 406,
+    id: 405,
     name: "Detached luxury villa with a sauna and views",
     location: "Tyrol, Austria",
     price: "From ~ $3000/night",
@@ -4885,7 +4861,7 @@
     affiliateLink: "https://expedia.com/affiliates/bramberg-am-wildkogel-hotels-detached-luxury-villa-with-a-sauna-and-views.Q3nS5E4" 
   },
   {
-    id: 407,
+    id: 406,
     name: "Jup - a luxury boutique chalet",
     location: "Tyrol, Austria",
     price: "From ~ $2800/night",
@@ -4897,7 +4873,7 @@
     affiliateLink: "https://expedia.com/affiliates/steeg-hotels-jup-a-luxury-boutique-chalet.1P4bLRY" 
   },
   {
-    id: 408,
+    id: 407,
     name: "Holiday Accommodation '5-Bedroom Villa in Playa del Duque' with private pool",
     location: "Tenerife, Canary Islands",
     price: "From ~ $21400/night",
@@ -4909,7 +4885,7 @@
     affiliateLink: "https://expedia.com/affiliates/adeje-hotels-holiday-accommodation-5-bedroom-villa-in-playa-del-duque-with-private-pool.CjMrR3w" 
   },
   {
-    id: 409,
+    id: 408,
     name: "Vacation Villa 'Beautiful Villa In The South' with Sea View, Wi-Fi and Air Conditioning",
     location: "Tenerife, Canary Islands",
     price: "From ~ $10800/night",
@@ -4921,7 +4897,7 @@
     affiliateLink: "https://expedia.com/affiliates/adeje-hotels-vacation-villa-beautiful-villa-in-the-south-with-sea-view.coQw4me" 
   },
   {
-    id: 410,
+    id: 409,
     name: "Villa 'Casa Bella Vista' with Sea View, Pool, Whirlpool, Sauna, Wi-Fi, A/C, Balcony & Terrace",
     location: "Tenerife, Canary Islands",
     price: "From ~ $8700/night",
@@ -4933,7 +4909,7 @@
     affiliateLink: "https://expedia.com/affiliates/adeje-hotels-villa-casa-bella-vista-with-sea-view.QYpnFG5" 
   },
   {
-    id: 411,
+    id: 410,
     name: "Vacation Villa 'Cool 4-bedroom with Sea Views' with Sea View, Wi-Fi and Air Conditioning",
     location: "Tenerife, Canary Islands",
     price: "From ~ $5700/night",
@@ -4945,7 +4921,7 @@
     affiliateLink: "https://expedia.com/affiliates/adeje-hotels-vacation-villa-cool-4-bedroom-with-sea-views-with-sea-view.vnPKWk0" 
   },
   {
-    id: 412,
+    id: 411,
     name: "Vacation Villa 'In Amarilla Golf' with Sea View, Wi-Fi and Air Conditioning",
     location: "Tenerife, Canary Islands",
     price: "From ~ $5500/night",
@@ -4957,7 +4933,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-miguel-de-abona-hotels-vacation-villa-in-amarilla-golf-with-sea-view.qj0FT3R" 
   },
   {
-    id: 413,
+    id: 412,
     name: "Vacation Home 'Ladera De Conil' with Sea View, Wi-Fi and Air Conditioning",
     location: "Lanzarote, Canary Islands",
     price: "From ~ $3400/night",
@@ -4969,7 +4945,7 @@
     affiliateLink: "https://expedia.com/affiliates/tias-hotels-vacation-home-ladera-de-conil-with-sea-view.XaWGbIv" 
   },
   {
-    id: 414,
+    id: 413,
     name: "'Villa Esencia' with Pool, Garden, A/C & Wi-Fi",
     location: "Lanzarote, Canary Islands",
     price: "From ~ $2200/night",
@@ -4981,7 +4957,7 @@
     affiliateLink: "https://expedia.com/affiliates/tias-hotels-villa-esencia-with-pool.uQfAs2p" 
   },
   {
-    id: 415,
+    id: 414,
     name: "Holiday Home “Villa Era” with Garden, Pool, Terrace & Wi-Fi",
     location: "Lanzarote, Canary Islands",
     price: "From ~ $3400/night",
@@ -4993,19 +4969,19 @@
     affiliateLink: "https://expedia.com/affiliates/la-oliva-hotels-holiday-home-villa-era-with-garden.dmV4W87" 
   },
   {
-    id: 416,
+    id: 415,
     name: "Chalet Casa Paula with Sea and Mountain View, Pool, Garden & Wi-Fi",
     location: "Lanzarote, Canary Islands",
     price: "From ~ $3400/night",
     rating: "8/10",
     image: "https://images.trvl-media.com/lodging/75000000/74620000/74616100/74616030/63e73735.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Spacious 5-bedroom villa near El Cotillo with two pools (one heated), garden, terrace, BBQs, and space for up to 14 guests—ideal for families or groups.",
+    description: "The chalet Casa Paula is located in Yaiza and impresses guests with its view of the sea.",
     amenities: ["WiFi", "Air Conditioning", "Pool", "Hot Tub", "Parking", "Kitchen", "Laundry"],
     region: "Europe",
     affiliateLink: "https://expedia.com/affiliates/yaiza-hotels-chalet-casa-paula-with-sea-and-mountain-view.YF033Vx" 
   },
   {
-    id: 417,
+    id: 416,
     name: "Pet-Friendly 'Finca Rural Los Tanquillos' with Mountain View, Pool, Wi-Fi, A/C, Terrace & Garden",
     location: "Gran Canaria, Canary Islands",
     price: "From ~ $3900/night",
@@ -5017,7 +4993,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-bartolome-de-tirajana-hotels-pet-friendly-finca-rural-los-tanquillos-with-mountain-view.PcE6IFK" 
   },
   {
-    id: 418,
+    id: 417,
     name: "Vacation Villa 'Yucas 17' with Sea View, Wi-Fi and Air Conditioning",
     location: "Gran Canaria, Canary Islands",
     price: "From ~ $3900/night",
@@ -5029,7 +5005,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-bartolome-de-tirajana-hotels-vacation-villa-yucas-17-with-sea-view.Wv85tmx" 
   },
   {
-    id: 419,
+    id: 418,
     name: "Villa 'VCV Star' with Shared Pool, A/C, Wi-Fi, Private Garden, Terrace & BBQ",
     location: "Gran Canaria, Canary Islands",
     price: "From ~ $2000/night",
@@ -5041,7 +5017,7 @@
     affiliateLink: "https://expedia.com/affiliates/san-bartolome-de-tirajana-hotels-villa-vcv-star-with-shared-pool.9HRjGLU" 
   },
   {
-    id: 420,
+    id: 419,
     name: "Luxurious Villa 'Las Hortensias' with Private Pool, Garden & Wi-Fi",
     location: "Gran Canaria, Canary Islands",
     price: "From ~ $1800/night",
@@ -5053,7 +5029,7 @@
     affiliateLink: "https://expedia.com/affiliates/santa-brigida-hotels-luxurious-villa-las-hortensias-with-private-pool.NiN5ftT" 
   },
   {
-    id: 421,
+    id: 420,
     name: "Villa Simone: Sun-lit, spacious & modern beach villa (with private pool & wifi)",
     location: "Belle Mare, Mauritius",
     price: "From ~ $200/night",
@@ -5065,19 +5041,19 @@
     affiliateLink: "https://expedia.com/affiliates/belle-mare-hotels-villa-simone-sun-lit.oEbDTdH" 
   },
   {
-    id: 422,
+    id: 421,
     name: "Villas Rocher - Residence 2 and Residence 3",
     location: "Grand Baie, Mauritius",
     price: "From ~ $800/night",
     rating: "10/10",
     image: "https://images.trvl-media.com/lodging/104000000/103460000/103450500/103450454/4f176542.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Villa Simone amenities: WiFi, private pool, parking, kitchen, laundry, breakfast included, sea view.",
+    description: "Two private villas with pool, sea views, and breakfast near beaches in Mauritius.",
     amenities: ["WiFi", "Air Conditioning", "Washer", "Dryer", "Laundry", "Iron", "Hair Dryer"],
     region: "Africa",
     affiliateLink: "https://expedia.com/affiliates/fond-du-sac-hotels-villas-rocher-residence-2-and-residence-3.1ghE5vX" 
   },
   {
-    id: 423,
+    id: 422,
     name: "Charming villa with AC and WiFi in peaceful Fond du Sac",
     location: "Grand Baie, Mauritius",
     price: "From ~ $400/night",
@@ -5089,7 +5065,7 @@
     affiliateLink: "https://expedia.com/affiliates/fond-du-sac-hotels-charming-villa-with-ac-and-wifi-in-peaceful-fond-du-sac.8Rz6dkX" 
   },
   {
-    id: 424,
+    id: 423,
     name: "Sunset Villa",
     location: "Le Morne, Mauritius",
     price: "From ~ $160/night",
@@ -5101,7 +5077,7 @@
     affiliateLink: "https://expedia.com/affiliates/la-gaulette-hotels-sunset-villa.xT3jGTa" 
   },
   {
-    id: 425,
+    id: 424,
     name: "Blue Lagoon Villa",
     location: "Le Morne, Mauritius",
     price: "From ~ $180/night",
@@ -5113,7 +5089,7 @@
     affiliateLink: "https://expedia.com/affiliates/la-gaulette-hotels-blue-lagoon-villa.9zMYm6A" 
   },
   {
-    id: 426,
+    id: 425,
     name: "32 Middle Street",
     location: "Galle, Sri Lanka",
     price: "From ~ $750/night",
@@ -5125,7 +5101,7 @@
     affiliateLink: "https://expedia.com/affiliates/galle-hotels-32-middle-street.q7j8FfD" 
   },
   {
-    id: 427,
+    id: 426,
     name: "Villa in a Stunning Location Galle Fort with 180-degree views of Indian Ocean",
     location: "Galle, Sri Lanka",
     price: "From ~ $500/night",
@@ -5137,7 +5113,7 @@
     affiliateLink: "https://expedia.com/affiliates/galle-hotels-villa-in-a-stunning-location-galle-fort-with-180-degree-views-of-indian-ocean.FTw0mZl" 
   },
   {
-    id: 428,
+    id: 427,
     name: "Ishq Talpe is an exclusive, luxurious, beach escape in Galle",
     location: "Galle, Sri Lanka",
     price: "From ~ $1700/night",
@@ -5149,7 +5125,7 @@
     affiliateLink: "https://expedia.com/affiliates/unawatuna-hotels-ishq-talpe-is-an-exclusive.UxD49AO" 
   },
   {
-    id: 429,
+    id: 428,
     name: "Honeymoon Destination with Private Pool and Spa in a Tea Estate - Luxury Villa",
     location: "Galle, Sri Lanka",
     price: "From ~ $1700/night",
@@ -5161,7 +5137,7 @@
     affiliateLink: "https://expedia.com/affiliates/spacious-5-bedroom-country-house-in-marvelous-baddegama-with-wifi.DtYO5Lf" 
   },
   {
-    id: 430,
+    id: 429,
     name: "South Point Ocean - Whole Villa 8 Bedroom (Sleep 16)",
     location: "Galle, Sri Lanka",
     price: "From ~ $1300/night",
@@ -5173,7 +5149,7 @@
     affiliateLink: "https://expedia.com/affiliates/koggala-hotels-south-point-ocean.6d8IJzT" 
   },
   {
-    id: 431,
+    id: 430,
     name: "Sitara Weligama",
     location: "Weligama, Sri Lanka",
     price: "From ~ $200/night",
@@ -5185,7 +5161,7 @@
     affiliateLink: "https://expedia.com/affiliates/weligama-hotels-sitara-weligama.RAuaqkC" 
   },
   {
-    id: 432,
+    id: 431,
     name: "Redcliffs by The Serendipity Collection",
     location: "Weligama, Sri Lanka",
     price: "From ~ $360/night",
@@ -5197,7 +5173,7 @@
     affiliateLink: "https://expedia.com/affiliates/mirissa-hotels-villa-red-cliffs.ZZPv7uk" 
   },
   {
-    id: 433,
+    id: 432,
     name: "Unique villa/Walking dist to Mirissa beach BNB/19P",
     location: "Weligama, Sri Lanka",
     price: "From ~ $450/night",
@@ -5209,7 +5185,7 @@
     affiliateLink: "https://expedia.com/affiliates/mirissa-hotels-unique-villawalking-dist-to-mirissa-beach-bnb19p.67Jvr9Z" 
   },
   {
-    id: 434,
+    id: 433,
     name: "Cinnamon House by The Serendipity Collection",
     location: "Weligama, Sri Lanka",
     price: "From ~ $650/night",
@@ -5221,7 +5197,7 @@
     affiliateLink: "https://expedia.com/affiliates/weligama-hotels-cinnamon-house-sri-lanka.D2Gt1WW" 
   },
   {
-    id: 435,
+    id: 434,
     name: "Boutique 87",
     location: "Bentota, Sri Lanka",
     price: "From ~ $240/night",
@@ -5233,7 +5209,7 @@
     affiliateLink: "https://expedia.com/affiliates/bentota-hotels-boutique-87.hS3YdQX" 
   },
   {
-    id: 436,
+    id: 435,
     name: "Nyne Hotels - Rock Villa, Bentota",
     location: "Bentota, Sri Lanka",
     price: "From ~ $290/night",
@@ -5245,7 +5221,7 @@
     affiliateLink: "https://expedia.com/affiliates/bentota-hotels-taru-villas-rock-villa.jnOn3oh" 
   },
   {
-    id: 437,
+    id: 436,
     name: "Nyne Hotels - Leela Walauwwa, Induruwa",
     location: "Bentota, Sri Lanka",
     price: "From ~ $450/night",
@@ -5257,7 +5233,7 @@
     affiliateLink: "https://expedia.com/affiliates/bentota-hotels-taru-villas-leela-walauwwa.yaO9vx9" 
   },
   {
-    id: 438,
+    id: 437,
     name: "SOL House by The One Group of Hotels",
     location: "Tangalle, Sri Lanka",
     price: "From ~ $675/night",
@@ -5269,7 +5245,7 @@
     affiliateLink: "https://expedia.com/affiliates/kamburugamuwa-hotels-sol-house-by-the-one-group-of-hotels.If8JVCd" 
   },
   {
-    id: 439,
+    id: 438,
     name: "Kadju House",
     location: "Tangalle, Sri Lanka",
     price: "From ~ $585/night",
@@ -5281,7 +5257,7 @@
     affiliateLink: "https://expedia.com/affiliates/morakatiyara-hotels-kadju-house.VZhX89s" 
   },
   {
-    id: 440,
+    id: 439,
     name: "Satiana Villa Tangalle",
     location: "Tangalle, Sri Lanka",
     price: "From ~ $500/night",
@@ -5293,7 +5269,7 @@
     affiliateLink: "https://expedia.com/affiliates/tangalle-hotels-arvani-villa.mSaBvA5" 
   },
   {
-    id: 441,
+    id: 440,
     name: "Mount Cinnamon - Exclusive Villa in Mirissa with WiFi, AC",
     location: "Tangalle, Sri Lanka",
     price: "From ~ $450/night",
@@ -5305,7 +5281,7 @@
     affiliateLink: "https://expedia.com/affiliates/mirissa-hotels-mount-cinnamon-exclusive-villa-in-mirissa-with-wifi.qdRk34B" 
   },
   {
-    id: 442,
+    id: 441,
     name: "D' Village Cottage 2 – Private Pool Villas",
     location: "Langkawi, Malaysia",
     price: "From ~ $400/night",
@@ -5317,7 +5293,7 @@
     affiliateLink: "https://expedia.com/affiliates/langkawi-hotels-d-village-cottage-2.RFpOxbF" 
   },
   {
-    id: 443,
+    id: 442,
     name: "Aroha Seaview Villa In Nature Private Pool 4-bedroom",
     location: "Langkawi, Malaysia",
     price: "From ~ $700/night",
@@ -5329,7 +5305,7 @@
     affiliateLink: "https://expedia.com/affiliates/langkawi-hotels-aroha-seaview-villa-in-nature-private-pool-4-bedroom.fmKh6ow" 
   },
   {
-    id: 444,
+    id: 443,
     name: "Adagaya Villa Langkawi - Private Pool (Villa Ryana)",
     location: "Langkawi, Malaysia",
     price: "From ~ $400/night",
@@ -5341,7 +5317,7 @@
     affiliateLink: "https://expedia.com/affiliates/langkawi-hotels-adagaya-villa-langkawi-private-pool.7JWsEQU" 
   },
   {
-    id: 445,
+    id: 444,
     name: "Maneh Villa",
     location: "Langkawi, Malaysia",
     price: "From ~ $300/night",
@@ -5353,7 +5329,7 @@
     affiliateLink: "https://expedia.com/affiliates/langkawi-hotels-maneh-villa.zdm8ktc" 
   },
   {
-    id: 446,
+    id: 445,
     name: "Little Heaven by SkyHive BeachfrontVilla",
     location: "Penang, Malaysia",
     price: "From ~ $500/night",
@@ -5365,7 +5341,7 @@
     affiliateLink: "https://expedia.com/affiliates/george-town-hotels-little-heaven-by-skyhive-beachfrontvilla.F8NznuQ" 
   },
   {
-    id: 447,
+    id: 446,
     name: "4-bedroom villa in fantastic Punta Cana with AC, WiFi",
     location: "Punta Cana, Dominican Republic",
     price: "From ~ $2400/night",
@@ -5377,7 +5353,7 @@
     affiliateLink: "https://expedia.com/affiliates/punta-cana-hotels-4-bedroom-villa-in-fantastic-punta-cana-with-ac.DmEkjWA" 
   },
   {
-    id: 448,
+    id: 447,
     name: "Luxury Pool Two Bedroom Suite",
     location: "Punta Cana, Dominican Republic",
     price: "From ~ $3400/night",
@@ -5389,7 +5365,7 @@
     affiliateLink: "https://expedia.com/affiliates/punta-cana-hotels-luxury-pool-two-bedroom-suite.Ki3AYg9" 
   },
   {
-    id: 449,
+    id: 448,
     name: "Punta Cana Villas Country and Ecolodge",
     location: "Punta Cana, Dominican Republic",
     price: "From ~ $500/night",
@@ -5401,19 +5377,19 @@
     affiliateLink: "https://expedia.com/affiliates/punta-cana-hotels-punta-cana-villas-country-and-ecolodge.STMFpsH" 
   },
   {
-    id: 450,
+    id: 449,
     name: "Las Colinas",
     location: "Casa de Campo, Dominican Republic",
     price: "From ~ $2700/night",
     rating: "10/10",
     image: "https://images.trvl-media.com/lodging/103000000/102650000/102645500/102645466/w1024h570x0y58-7125dc66.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "It consists of 11 rooms, 3 swimming pools and a jacuzzi. It has a spacious living room.",
+    description: "It consists of 11 rooms, 3 swimming pools and a jacuzzi.",
     amenities: ["Living/Dining Area", "9 Bedrooms", "10 Bathrooms", "Living Room", "No Pets Allowed", "Smoking Not Allowed"],
     region: "Caribbean",
     affiliateLink: "https://expedia.com/affiliates/la-romana-hotels-las-colinas.CBsPrS0" 
   },
   {
-    id: 451,
+    id: 450,
     name: "Elegant Villa in Casa de Campo Resort La Romana",
     location: "Casa de Campo, Dominican Republic",
     price: "From ~ $4100/night",
@@ -5425,7 +5401,7 @@
     affiliateLink: "https://expedia.com/affiliates/la-romana-hotels-elegant-villa-in-casa-de-campo-resort-la-romana.gtKMhEE" 
   },
   {
-    id: 452,
+    id: 451,
     name: "Casa Eden - Near the Beach-W/Chef Butler&Maid-Jacuzzi & Pool",
     location: "Casa de Campo, Dominican Republic",
     price: "From ~ $2400/night",
@@ -5437,7 +5413,7 @@
     affiliateLink: "https://expedia.com/affiliates/la-romana-hotels-casa-eden-near-the-beach-wchef-butlermaid-jacuzzi-pool.OgCzR3V" 
   },
   {
-    id: 453,
+    id: 452,
     name: "Luxury Villa in Casa de Campo: Villa Barranca Este with Pool, Gymnasium",
     location: "Casa de Campo, Dominican Republic",
     price: "From ~ $2300/night",
@@ -5449,7 +5425,7 @@
     affiliateLink: "https://expedia.com/affiliates/la-romana-hotels-luxury-and-fun-in-casa-de-campo-villa-barranca-este-with-swimming-pool.QWe4vPK" 
   },
   {
-    id: 454,
+    id: 453,
     name: "New Luxury Modern Beachside Villa Walk to the Ocean in 10 Min",
     location: "Rio de Janeiro, Brazil",
     price: "From ~ $1500/night",
@@ -5461,7 +5437,7 @@
     affiliateLink: "https://expedia.com/affiliates/rio-de-janeiro-hotels-new-luxury-modern-beachside-villa-walk-to-the-ocean-in-10-min.OWqv9b8" 
   },
   {
-    id: 455,
+    id: 454,
     name: "Ryoun by H2 Life",
     location: "Niseko, Japan",
     price: "From ~ $1200/night",
@@ -5473,7 +5449,7 @@
     affiliateLink: "https://expedia.com/affiliates/kutchan-hotels-ryoun-by-h2-life.N0ZRgX4" 
   },
   {
-    id: 456,
+    id: 455,
     name: "Ginto Hirafu by H2 Life",
     location: "Niseko, Japan",
     price: "From ~ $1000/night",
@@ -5485,7 +5461,7 @@
     affiliateLink: "https://expedia.com/affiliates/niseko-hotels-the-pavilions-awayuki-by-h2-life.IY3IHxz" 
   },
   {
-    id: 457,
+    id: 456,
     name: "Koa Niseko",
     location: "Niseko, Japan",
     price: "From ~ $650/night",
@@ -5497,7 +5473,7 @@
     affiliateLink: "https://expedia.com/affiliates/niseko-hotels-koa-niseko.gFVlPjh" 
   },
   {
-    id: 458,
+    id: 457,
     name: "HOTEL VMG VILLA KYOTO",
     location: "Kyoto, Japan",
     price: "From ~ $1200/night",
@@ -5509,7 +5485,7 @@
     affiliateLink: "https://expedia.com/affiliates/kyoto-hotels-hotel-vmg-villa-kyoto.aByWHEq" 
   },
   {
-    id: 459,
+    id: 458,
     name: "Mu Ju Rin Hotel",
     location: "Kyoto, Japan",
     price: "From ~ $560/night",
@@ -5521,7 +5497,7 @@
     affiliateLink: "https://expedia.com/affiliates/kyoto-hotels-mu-ju-rin-hotel.WyEaVoN" 
   },
   {
-    id: 460,
+    id: 459,
     name: "LUX HAKONE YUMOTO",
     location: "Hakone, Japan",
     price: "From ~ $1200/night",
@@ -5533,7 +5509,7 @@
     affiliateLink: "https://expedia.com/affiliates/hakone-hotels-lux-hakone-yumoto.LyrEnEE" 
   },
   {
-    id: 461,
+    id: 460,
     name: "Premium Suite Luxury Villa for Adults｜Spectacular infinity pool with the blue ocean of Okinawa all to yourself｜Sauna, Jacuzzi, and fire pit for a full day of fun",
     location: "Okinawa, Japan",
     price: "From ~ $4000/night",
@@ -5545,7 +5521,7 @@
     affiliateLink: "https://expedia.com/affiliates/motobu-hotels-premium-suite-luxury-villa-for-adultsspectacular-infinity-pool-with-the-blue-ocean-of-okinawa-all-to-yourselfsauna.ZMlzhuR" 
   },
   {
-    id: 462,
+    id: 461,
     name: "NEW! Luxury villa with private pool! Please enjoy a completely private moment, limited to one couple per day.",
     location: "Okinawa, Japan",
     price: "From ~ $1300/night",
@@ -5557,7 +5533,7 @@
     affiliateLink: "https://expedia.com/affiliates/motobu-hotels-new-luxury-villa-with-private-pool-please-enjoy-a-completely-private-moment.52AjtBD" 
   },
   {
-    id: 463,
+    id: 462,
     name: "The Uza Terrace Beach Club Villas",
     location: "Okinawa, Japan",
     price: "From ~ $1000/night",
@@ -5569,7 +5545,7 @@
     affiliateLink: "https://expedia.com/affiliates/okinawa-hotels-the-uza-terrace-beach-club-villas.UYhAaV3" 
   },
   {
-    id: 464,
+    id: 463,
     name: "Private Pool Villa Motobu",
     location: "Okinawa, Japan",
     price: "From ~ $1000/night",
@@ -5581,7 +5557,7 @@
     affiliateLink: "https://expedia.com/affiliates/motobu-hotels-private-pool-villa-okinawa-motobu.LHQ0hdI" 
   },
   {
-    id: 465,
+    id: 464,
     name: "KARUIZAWA FOREST SEASONS",
     location: "Karuizawa, Japan",
     price: "From ~ $1000/night",
@@ -5593,7 +5569,7 @@
     affiliateLink: "https://expedia.com/affiliates/karuizawa-hotels-karuizawa-forest-seasons.FfH3Akb" 
   },
   {
-    id: 466,
+    id: 465,
     name: "KARUIZAWAHOUSE VILLA",
     location: "Karuizawa, Japan",
     price: "From ~ $650/night",
@@ -5605,7 +5581,7 @@
     affiliateLink: "https://expedia.com/affiliates/karuizawa-hotels-karuizawahouse-villa.a7veQIR" 
   },
   {
-    id: 467,
+    id: 466,
     name: "MARRAKECH AREA DOUAR",
     location: "Marrakech, Morocco",
     price: "From ~ $4700/night",
@@ -5617,7 +5593,7 @@
     affiliateLink: "https://expedia.com/affiliates/marrakech-hotels-marrakech-area-douar.LvLiUER" 
   },
   {
-    id: 468,
+    id: 467,
     name: "Palais Soun",
     location: "Marrakech, Morocco",
     price: "From ~ $4700/night",
@@ -5629,7 +5605,7 @@
     affiliateLink: "https://expedia.com/affiliates/marrakech-hotels-palais-soun.yiFZFlT" 
   },
   {
-    id: 469,
+    id: 468,
     name: "Oriental Palace in a beautiful 2 hectares oasis in the Marrakech countryside",
     location: "Marrakech, Morocco",
     price: "From ~ $3300/night",
@@ -5641,7 +5617,7 @@
     affiliateLink: "https://expedia.com/affiliates/marrakech-hotels-oriental-palace-in-a-beautiful-2-hectares-oasis-in-the-marrakech-countryside.U0NCHPv" 
   },
   {
-    id: 470,
+    id: 469,
     name: "Villa Almaz Marrakech – Palais Exclusif avec Piscine, Spa et Sauna",
     location: "Marrakech, Morocco",
     price: "From ~ $3300/night",
@@ -5653,7 +5629,7 @@
     affiliateLink: "https://expedia.com/affiliates/marrakech-hotels-villa-almaz.XkgHEMY" 
   },
   {
-    id: 471,
+    id: 470,
     name: "Palace 'Constantine', 13 suites, Ourika road",
     location: "Marrakech, Morocco",
     price: "From ~ $2900/night",
@@ -5665,7 +5641,7 @@
     affiliateLink: "https://expedia.com/affiliates/marrakech-hotels-palace-constantine.oZLZF6y" 
   },
   {
-    id: 472,
+    id: 471,
     name: "Holiday Luxe Villa – Small Private Pool",
     location: "Agadir, Morocco",
     price: "From ~ $600/night",
@@ -5677,7 +5653,7 @@
     affiliateLink: "https://expedia.com/affiliates/agadir-hotels-holiday-luxe-villa-small-private-pool.hcKbKnw" 
   },
   {
-    id: 473,
+    id: 472,
     name: "Bay Views From Drury Lane with Solar Heated Pool and Gas Heated Spa",
     location: "Melbourne, Australia",
     price: "From ~ $2300/night",
@@ -5689,7 +5665,7 @@
     affiliateLink: "https://expedia.com/affiliates/melbourne-hotels-breath-taking-bay-views.1Qk7S5h" 
   },
   {
-    id: 474,
+    id: 473,
     name: "Highbury's Peaceful Retreat with gas heated plunge pool",
     location: "Melbourne, Australia",
     price: "From ~ $2100/night",
@@ -5701,7 +5677,7 @@
     affiliateLink: "https://expedia.com/affiliates/melbourne-hotels-peaceful-retreat-with-gas-heated-plunge-pool.7I8U5gi" 
   },
   {
-    id: 475,
+    id: 474,
     name: "Lazy Days",
     location: "Diani Beach, Kenya",
     price: "From ~ $2200/night",
@@ -5713,7 +5689,7 @@
     affiliateLink: "https://expedia.com/affiliates/mombasa-hotels-lazy-days.dLqPUB2" 
   },
   {
-    id: 476,
+    id: 475,
     name: "10 minutes to the beach! Villa Sultanas Luxury Villa with private swimming pool",
     location: "Diani Beach, Kenya",
     price: "From ~ $600/night",
@@ -5725,7 +5701,7 @@
     affiliateLink: "https://expedia.com/affiliates/mombasa-hotels-10-minutes-to-the-beach-villa-sultanas-luxury-villa-with-private-swimming-pool.p6r0ILL" 
   },
   {
-    id: 477,
+    id: 476,
     name: "5 Bedroom Luxury Villa In Diani",
     location: "Diani Beach, Kenya",
     price: "From ~ $500/night",
@@ -5737,7 +5713,7 @@
     affiliateLink: "https://expedia.com/affiliates/mombasa-hotels-5-bedroom-luxury-villa-in-diani.zNYLp0m" 
   },
   {
-    id: 478,
+    id: 477,
     name: "Blue Diamond Villa Watamu: Double Room with Private Bathroom",
     location: "Watamu, Kenya",
     price: "From ~ $1300/night",
@@ -5749,7 +5725,7 @@
     affiliateLink: "https://expedia.com/affiliates/watamu-hotels-vrbo-property.a5SzHgE" 
   },
   {
-    id: 479,
+    id: 478,
     name: "Villa savanah Watamu",
     location: "Watamu, Kenya",
     price: "From ~ $500/night",
@@ -5761,7 +5737,7 @@
     affiliateLink: "https://expedia.com/affiliates/watamu-hotels-villa-savanah-watamu.nApYSp9" 
   },
   {
-    id: 480,
+    id: 479,
     name: "Ndovu house Watamu",
     location: "Watamu, Kenya",
     price: "From ~ $600/night",
@@ -5773,8 +5749,8 @@
     affiliateLink: "https://expedia.com/affiliates/watamu-hotels-ndovu-house-watamu.HytK1MC" 
   },
   {
-    id: 481,
-    name: "Watamu beach villa",
+    id: 480,
+    name: "Watamu Beach Villa",
     location: "Watamu, Kenya",
     price: "From ~ $900/night",
     rating: "10/10",
@@ -5785,7 +5761,7 @@
     affiliateLink: "https://expedia.com/affiliates/watamu-hotels-watamu-beach-villa.MFY6Nmt" 
   },
   {
-    id: 482,
+    id: 481,
     name: "VILLA FAHARI - Nine Bedroom Villa, Sleeps 18",
     location: "Malindi, Kenya",
     price: "From ~ $3000/night",
@@ -5797,7 +5773,7 @@
     affiliateLink: "https://expedia.com/affiliates/malindi-hotels-villa-fahari-nine-bedroom-villa.hfYvs6c" 
   },
   {
-    id: 483,
+    id: 482,
     name: "Stunning new luxury oceanfront villa in Bweleo",
     location: "Zanzibar, Tanzania",
     price: "From ~ $1250/night",
@@ -5809,7 +5785,7 @@
     affiliateLink: "https://expedia.com/affiliates/fumba-hotels-stunning-new-luxury-oceanfront-villa-in-bweleo-9269317.FmanCxU" 
   },
   {
-    id: 484,
+    id: 483,
     name: "Cozy Beachfront Villa",
     location: "Zanzibar, Tanzania",
     price: "From ~ $1250/night",
@@ -5821,7 +5797,7 @@
     affiliateLink: "https://expedia.com/affiliates/jambiani-hotels-cozy-beachfront-villa.YQ0R8lQ" 
   }, 
   {
-    id: 485,
+    id: 484,
     name: "Craigroy 3 Lakeshore apartment with conservator",
     location: "Queenstown, New Zealand",
     price: "From ~ $1750/night",
@@ -5833,7 +5809,7 @@
     affiliateLink: "https://expedia.com/affiliates/queenstown-hotels-craigroy-3-lakeshore-apartment-with-conservatory.6cCI1vS" 
   },
   {
-    id: 486,
+    id: 485,
     name: "Kelvin Heights Retreat Lake Views BBQ Fireplace",
     location: "Queenstown, New Zealand",
     price: "From ~ $1500/night",
@@ -5845,7 +5821,7 @@
     affiliateLink: "https://expedia.com/affiliates/kelvin-heights-hotels-kelvin-heights-retreat-lake-views-bbq-fireplace.vs0S84N" 
   },
   {
-    id: 487,
+    id: 486,
     name: "Breath Taking View over the Lake",
     location: "Taupo, New Zealand",
     price: "From ~ $600/night",
@@ -5857,7 +5833,7 @@
     affiliateLink: "https://expedia.com/affiliates/taupo-hotels-breath-taking-view-over-the-lake.owcMT5A" 
   },
   {
-    id: 488,
+    id: 487,
     name: "Stylish New Retreat in Taupo",
     location: "Taupo, New Zealand",
     price: "From ~ $600/night",
@@ -5869,7 +5845,7 @@
     affiliateLink: "https://expedia.com/affiliates/taupo-hotels-stylish-new-retreat-in-taupo.gW8guKf" 
   },
   {
-    id: 489,
+    id: 488,
     name: "Villa 118 - 4BR Private Villa - Private Pool - 5mins to Airport",
     location: "Coral Coast, Fiji",
     price: "From ~ $2500/night",
@@ -5881,7 +5857,7 @@
     affiliateLink: "https://expedia.com/affiliates/nadi-hotels-villa-118-4br-private-villa-private-pool-5mins-to-airport.IO8Gqni" 
   },
   {
-    id: 490,
+    id: 489,
     name: "Spacious Oceanview Villa – 7BedRooms, Private Pool, Near Nadi Airport",
     location: "Coral Coast, Fiji",
     price: "From ~ $1800/night",
@@ -5893,7 +5869,7 @@
     affiliateLink: "https://expedia.com/affiliates/nadi-hotels-spacious-oceanview-villa-7bedrooms.L60K8ML" 
   },
   {
-    id: 491,
+    id: 490,
     name: "Four Bedroom Riverfront Villa 79/4",
     location: "Coral Coast, Fiji",
     price: "From ~ $1200/night",
@@ -5905,7 +5881,7 @@
     affiliateLink: "https://expedia.com/affiliates/nadi-hotels-four-bedroom-riverfront-villa-794.C4YmI3c" 
   },
   {
-    id: 492,
+    id: 491,
     name: "Mantaray Island Resort",
     location: "Yasawa Islands, Fiji",
     price: "From ~ $450/night",
@@ -5917,7 +5893,7 @@
     affiliateLink: "https://expedia.com/affiliates/nanuya-balavu-island-hotels-mantaray-island-resort.sGpjgRY" 
   },
   {
-    id: 493,
+    id: 492,
     name: "Paradise Cove Resort",
     location: "Yasawa Islands, Fiji",
     price: "From ~ $350/night",
@@ -5929,7 +5905,7 @@
     affiliateLink: "https://expedia.com/affiliates/naukacuvu-island-hotels-paradise-cove-resort.T4HFXcB" 
   },
   {
-    id: 494,
+    id: 493,
     name: "Octopus Resort",
     location: "Yasawa Islands, Fiji",
     price: "From ~ $450/night",
@@ -5941,7 +5917,7 @@
     affiliateLink: "https://expedia.com/affiliates/waya-island-hotels-octopus-resort.DRR15Uz" 
   },
   {
-    id: 495,
+    id: 494,
     name: "Waves at Surfside",
     location: "Efate, Vanuatu",
     price: "From ~ $285/night",
@@ -5953,7 +5929,7 @@
     affiliateLink: "https://expedia.com/affiliates/port-vila-hotels-waves-at-surfside.cbKQRrU" 
   },
   {
-    id: 496,
+    id: 495,
     name: "The Sorrento @ Watermark on Moso",
     location: "Efate, Vanuatu",
     price: "From ~ $270/night",
@@ -5965,7 +5941,7 @@
     affiliateLink: "https://expedia.com/affiliates/moso-island-hotels-watermark-on-moso-the-sorrento.t6UL4b7" 
   },
   {
-    id: 497,
+    id: 496,
     name: "ICELAND SJF Villa , Hot tub & Outdoor Sauna Amazing Mountains View - 15 min to downtown",
     location: "Golden Circle, Iceland",
     price: "From ~ $1000/night",
@@ -5977,7 +5953,7 @@
     affiliateLink: "https://expedia.com/affiliates/reykjavik-hotels-sjf-villa.9hnx1gP" 
   },
   {
-    id: 498,
+    id: 497,
     name: "Designers Villa near Alafoss Waterfall",
     location: "Golden Circle, Iceland",
     price: "From ~ $1000/night",
@@ -5989,7 +5965,7 @@
     affiliateLink: "https://expedia.com/affiliates/reykjavik-hotels-designers-villa-near-alafoss-waterfall.YA3N0G3" 
   },
   {
-    id: 499,
+    id: 498,
     name: "Aurora Igloo",
     location: "Hella, Iceland",
     price: "From ~ $350/night",
@@ -6001,7 +5977,7 @@
     affiliateLink: "https://expedia.com/affiliates/rangaring-ytra-hotels-aurora-igloo.Rfd5AEL" 
   },
   {
-    id: 500,
+    id: 499,
     name: "Heiðin - your perfect home-away-from-home in northern Iceland.",
     location: "Akureyri, Iceland",
     price: "From ~ $2100/night",

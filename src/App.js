@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/common/Header';
 import Footer from './components/common/Footer';
+import ScrollToTop from './components/common/ScrollToTop';
 import Home from './pages/Home';
 import Villas from './pages/Villas';
 import VillaDetail from './pages/VillaDetail';
@@ -23,6 +24,7 @@ function App() {
 
   return (
     <Router basename="/">
+      <ScrollToTop />
       <div className="min-h-screen flex flex-col">
         <Header />
         <main className="flex-grow">

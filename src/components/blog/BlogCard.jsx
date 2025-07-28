@@ -6,7 +6,7 @@ export default function BlogCard({ post }) {
       <div className="flex flex-col md:flex-row gap-6 bg-[#F0F0F0] p-5 rounded-xl shadow-sm">
         <div className="md:w-1/3">
           <img
-            src={post.featuredImage}
+            src={post.thumbnail}
             alt={post.title}
             className="w-full h-48 md:h-56 object-cover rounded-lg"
           />

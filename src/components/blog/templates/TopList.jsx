@@ -1,4 +1,5 @@
 import { ArrowRightIcon, MapPinIcon } from '@heroicons/react/24/solid';
+import { Link } from 'react-router-dom'; // ✅ Import Link
 
 export default function TopList({ post }) {
   return (
@@ -68,9 +69,13 @@ export default function TopList({ post }) {
         <p className="text-blue-100 mb-8 max-w-2xl mx-auto leading-relaxed">
           {post.content.callToAction || "Browse our curated collection of luxury properties."}
         </p>
-        <button className="px-10 py-4 border-2 border-white text-white rounded-lg hover:bg-white hover:bg-opacity-10 transition-all font-semibold text-lg">
-          Browse All Villas
-        </button>
+
+        {/* ✅ Link to /villas */}
+        <Link to="/villas">
+          <button className="px-10 py-4 border-2 border-white text-white rounded-lg hover:bg-white hover:bg-opacity-10 transition-all font-semibold text-lg">
+            Browse All Villas
+          </button>
+        </Link>
       </div>
     </article>
   );

@@ -1,6 +1,14 @@
+import { useState } from 'react';
 import { CheckCircleIcon, MapPinIcon, ArrowRightIcon } from '@heroicons/react/24/solid';
+import Lightbox from 'yet-another-react-lightbox';
+import 'yet-another-react-lightbox/styles.css';
 
 export default function VillaReview({ post }) {
+  const [open, setOpen] = useState(false);
+  const [currentIndex, setCurrentIndex] = useState(0);
+
+  const images = post.content.gallery.map((url) => ({ src: url }));
+
   return (
     <article className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-white">
       {/* Hero Section */}
@@ -51,15 +59,29 @@ export default function VillaReview({ post }) {
         <h2 className="text-3xl font-bold mb-8 text-gray-900 font-serif">Photo Gallery</h2>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
           {post.content.gallery.map((image, i) => (
-            <div key={i} className="aspect-square overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow">
+            <button
+              key={i}
+              className="aspect-square overflow-hidden rounded-xl shadow-sm hover:shadow-md transition-shadow focus:outline-none"
+              onClick={() => {
+                setCurrentIndex(i);
+                setOpen(true);
+              }}
+            >
               <img
                 src={image}
                 alt={`${post.title} view`}
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               />
-            </div>
+            </button>
           ))}
         </div>
+        <Lightbox
+          open={open}
+          close={() => setOpen(false)}
+          slides={images}
+          index={currentIndex}
+          on={{ view: ({ index }) => setCurrentIndex(index) }}
+        />
       </section>
 
       {/* Testimonial */}
@@ -97,15 +119,15 @@ export default function VillaReview({ post }) {
         <p className="text-blue-100 mb-8 max-w-2xl text-center">
           Contact us for personalized booking assistance and special offers.
         </p>
-          <a
-            href={post.content.bookingLink}
-            className="inline-flex items-center justify-center px-10 py-4 bg-white text-blue-700 rounded-lg hover:bg-blue-50 font-semibold text-lg transition-colors max-w-full sm:max-w-max"
-          >
-            <span className="block text-center sm:inline">{/* Text centered on mobile */}
-              Check Availability
-            </span>
-            <ArrowRightIcon className="ml-2 h-5 w-5 hidden sm:inline" /> {/* Icon hidden on mobile */}
-          </a>
+        <a
+          href={post.content.bookingLink}
+          className="inline-flex items-center justify-center px-10 py-4 bg-white text-blue-700 rounded-lg hover:bg-blue-50 font-semibold text-lg transition-colors max-w-full sm:max-w-max"
+        >
+          <span className="block text-center sm:inline">
+            Check Availability
+          </span>
+          <ArrowRightIcon className="ml-2 h-5 w-5 hidden sm:inline" />
+        </a>
       </div>
     </article>
   );

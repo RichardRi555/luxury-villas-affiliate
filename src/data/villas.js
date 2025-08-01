@@ -781,7 +781,7 @@
     affiliateLink: "https://expedia.com/affiliates/kuda-rah-hotels-amaya-resorts-and-spas-kuda-rah.IZetzCy" 
   },
   {
-    id: 66,
+    id: 66, //bad link
     name: "Conrad Maldives Rangali Island",
     location: "South Ari Atoll, Maldives",
     price: "From ~ $1000/night",
@@ -1261,7 +1261,7 @@
     affiliateLink: "https://expedia.com/affiliates/capri-hotels-vrbo-property.gp3cH0u" 
   },
   {
-    id: 106,
+    id: 106, //bad link
     name: "Located 9 min walk from the center of Capri, and15 min walk from MarinaPiccola",
     location: "Capri, Italy",
     price: "From ~ $785/night",
@@ -2377,7 +2377,7 @@
     affiliateLink: "https://expedia.com/affiliates/marseille-hotels-villa-osez-adelaide-with-private-terrace.Nlatf0h" 
   },
   {
-    id: 199,
+    id: 199, //bad link
     name: "LaVillaB sea view Carqueiranne",
     location: "Provence, France",
     price: "From ~ $900/night",
@@ -2809,7 +2809,7 @@
     affiliateLink: "https://expedia.com/affiliates/el-pescadero-hotels-charming-3-bedroom-villa-with-ac.SEeniTK" 
   },
   {
-    id: 235,
+    id: 235, //bad link
     name: "The Butterfly House- Malibu Hillside Retreat Under the Stars",
     location: "Malibu, USA",
     price: "From ~ $850/night",
@@ -3433,7 +3433,7 @@
     affiliateLink: "https://expedia.com/affiliates/providenciales-hotels-tc-villas-beach-villa-sandstone-amazing-snorkeling.AZOs2tA" 
   },
   {
-    id: 287,
+    id: 287, //bad link
     name: "Oceanfront Dream Villa. Expansive pool, game room, rooftop lounge, kitchen.",
     location: "Providenciales, Turks and Caicos",
     price: "From ~ $2200/night",
@@ -5173,7 +5173,7 @@
     affiliateLink: "https://expedia.com/affiliates/mirissa-hotels-villa-red-cliffs.ZZPv7uk" 
   },
   {
-    id: 432,
+    id: 432, //bad link
     name: "Unique villa/Walking dist to Mirissa beach BNB/19P",
     location: "Weligama, Sri Lanka",
     price: "From ~ $450/night",

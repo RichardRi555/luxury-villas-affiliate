@@ -1,5 +1,6 @@
 import React from "react";
 import { ArrowRightIcon } from '@heroicons/react/24/solid';
+import { Link } from 'react-router-dom'; // ✅ Import Link
 
 export default function DestinationGuide({ post }) {
   if (!post?.content) return <p className="text-gray-700 p-6">Missing content</p>;
@@ -43,8 +44,16 @@ export default function DestinationGuide({ post }) {
         <h2 className="text-3xl font-bold mb-6 text-gray-900 font-serif">
           Best Time to Visit
         </h2>
-        <div className="bg-blue-50 p-6 rounded-lg border border-blue-100">
-          <p className="text-gray-700">{bestTimeToVisit}</p>
+        <div className="bg-blue-50 p-6 rounded-lg border border-blue-100 space-y-4">
+          {Array.isArray(bestTimeToVisit) ? (
+            bestTimeToVisit.map((paragraph, index) => (
+              <p key={index} className="text-gray-700 leading-relaxed">
+                {paragraph}
+              </p>
+            ))
+          ) : (
+            <p className="text-gray-700 leading-relaxed">{bestTimeToVisit}</p>
+          )}
         </div>
       </section>
 
@@ -124,9 +133,13 @@ export default function DestinationGuide({ post }) {
         <p className="text-blue-100 mb-6 max-w-2xl mx-auto">
           Discover more luxury destinations for your next vacation.
         </p>
-        <button className="px-8 py-3 border border-white text-white rounded-lg hover:bg-white hover:bg-opacity-10 transition-all font-semibold">
-          Browse All Destinations
-        </button>
+        
+        {/* ✅ Link to /villas */}
+        <Link to="/villas">
+          <button className="px-10 py-4 border-2 border-white text-white rounded-lg hover:bg-white hover:bg-opacity-10 transition-all font-semibold text-lg">
+            Browse All Villas
+          </button>
+        </Link>
       </div>
     </article>
   );

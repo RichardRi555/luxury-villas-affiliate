@@ -768,26 +768,26 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/machchafushi-hotels-centara-grand-island-resort-spa-maldives.tgtt6Si" 
   },
   {
-    id: 65, //link bad
-    name: "SUNSET OCEAN POOL VILLA - KING",
+    id: 65, 
+    name: "NH Maldives Kuda Rah Resort",
     location: "South Ari Atoll, Maldives",
-    price: "From ~ $2500/night",
-    rating: "9.6/10",
-    image: "https://images.trvl-media.com/lodging/56000000/55260000/55250500/55250445/c96e20dd.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "SUNSET OCEAN POOL VILLA - KING",
-    amenities: ["Free WiFi", "Private Bathroom", "No Smoking", "Adults-Only", "English Speaking Staff"],
+    price: "From ~ $1400/night",
+    rating: "9.2/10",
+    image: "https://images.trvl-media.com/lodging/17000000/16060000/16054900/16054819/7648b4a2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Luxury resort on the beach, with outdoor pool",
+    amenities: ["Free WiFi", "Private Beach", "Full-Service Spa", "Outdoor Pool", "Fitness Center", "Multilingual Staff", "No Smoking"],
     region: "Asia",
-    affiliateLink: "https://expedia.com/affiliates/machchafushi-hotels-sunset-ocean-pool-villa-king.lDO16Hs" 
+    affiliateLink: "https://expedia.com/affiliates/kuda-rah-hotels-amaya-resorts-and-spas-kuda-rah.IZetzCy" 
   },
   {
-    id: 66, //link bad
-    name: "BEACH SUITE - KING Maldives",
+    id: 66,
+    name: "Conrad Maldives Rangali Island",
     location: "South Ari Atoll, Maldives",
     price: "From ~ $1000/night",
-    rating: "9.6/10",
+    rating: "9.2/10",
     image: "https://images.trvl-media.com/lodging/56000000/55260000/55250900/55250889/0cd82414.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "BEACH SUITE - KING Maldives",
-    amenities: ["Private Bathroom", "No Pets Allowed", "No Smoking", "Adults-Only Property", "Safety Equipment", "English-Speaking Staff"],
+    description: "Luxury resort on the beach, with 3 outdoor pools",
+    amenities: ["Free WiFi", "Private Beach", "Full-Service Spa", "3 Outdoor Pools", "24-Hour Fitness Center", "Multilingual Staff", "No Smoking"],
     region: "Asia",
     affiliateLink: "https://expedia.com/affiliates/machchafushi-hotels-beach-suite-king-maldives.8xjLRpH" 
   },
@@ -1105,15 +1105,15 @@ const villas = [
   },
   {
     id: 93,
-    name: "VILLA DEL MARE CALA BIANCA", //link bad
+    name: "Family Villa Morenanoemi with Sea View, Pool, Garden, Terrace & Balcony", 
     location: "Sicily, Italy",
-    price: "From ~ $300/night",
-    rating: "9.8/10",
-    image: "https://images.trvl-media.com/lodging/20000000/19520000/19510400/19510380/c93f7c2e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "VILLA DEL MARE CALA BIANCA",
-    amenities: ["Communal Pool", "2-Bedroom Villa", "Full Kitchen", "Washer/Dryer", "Air Conditioning", "Cable TV", "Onsite Parking"],
+    price: "From ~ $4600/night",
+    rating: "9.0/10",
+    image: "https://images.trvl-media.com/lodging/68000000/67280000/67278000/67278000/7be42526.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Spacious family-friendly Sicilian villa with sea view, private pool, garden, and beach access just 5 minutes away.",
+    amenities: ["Free WiFi", "Private Pool", "Kitchen", "Children's Toys", "Air Conditioning", "Beach Nearby", "Washer"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/alcamo-hotels-villa-del-mare-cala-bianca.gzK7gz5" 
+    affiliateLink: "https://expedia.com/affiliates/modica-hotels-family-villa-morenanoemi-with-sea-view.JoUYAU7" 
   },
   {
     id: 94,
@@ -1536,16 +1536,16 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/sant-josep-de-sa-talaia-hotels-luxurious-villa-can-mariano-with-pool.ULZ5kcA" 
   },
   {
-    id: 129, //link broken
+    id: 129, 
     name: "Luxury Villa 'Oasis' with Pool, Panoramic Views, Wi-Fi & Large Garden",
     location: "Ibiza, Spain",
-    price: "From ~ $4000/night",
+    price: "From ~ $4750/night",
     rating: "10/10",
     image: "https://images.trvl-media.com/lodging/49000000/49000000/48996000/48995923/8eb6a1b0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Luxury Villa 'Oasis' with Pool, Panoramic Views, Wi-Fi & Large Garden",
-    amenities: ["WiFi", "Air Conditioning", "Pool", "Parking", "Kitchen", "Laundry", "Fireplace"],
+    description: "Luxurious Ibiza villa with panoramic views, private pool, garden, and walking distance to beach and amenities.",
+    amenities: ["Free WiFi", "Private Pool", "Kitchen", "Washer", "Air Conditioning", "Fireplace", "Beach Nearby"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/santa-eulalia-del-rio-hotels-luxury-villa-can-angel-with-pool.ISRR8eCs" 
+    affiliateLink: "https://expedia.com/affiliates/santa-eulalia-del-rio-hotels-luxury-villa-can-angel-with-pool.0dQXx5g" 
   },
   {
     id: 130,
@@ -1956,16 +1956,16 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/madrid-hotels-mandarin-oriental-ritz.wFqAMCq" 
   },
   {
-    id: 164, //Link not working
-    name: "(SHA) Hideaway two bedrooms pool villa in Nai Harn 5",
+    id: 164, 
+    name: "Your exclusive villa on the sand, Private Pool, Stunning Ocean Views",
     location: "Phuket, Thailand",
-    price: "From ~ $21300/night",
-    rating: "9.8/10",
-    image: "https://images.trvl-media.com/lodging/41000000/40600000/40596500/40596454/263adac9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Stylish 2-bedroom villa in Nai Harn with private pool, parking, air conditioning, smart TVs, and close to beaches, shops, and restaurants.",
-    amenities: ["Kitchen", "Microwave", "Parking", "Dryer", "Gym", "Pool", "Air Conditioning"],
+    price: "From ~ $1800/night",
+    rating: "9.6/10",
+    image: "https://images.trvl-media.com/lodging/79000000/78120000/78113000/78112909/fd50a07b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Beachfront Phuket villa with private pool, ocean views, daily service, and stunning sunrise-to-sunset scenery.",
+    amenities: ["Free WiFi", "Private Pool", "Kitchen", "Air Conditioning", "On the Beach", "Gym", "Children's Toys"],
     region: "Asia",
-    affiliateLink: "https://expedia.com/affiliates/rawai-hotels.hTVziWJ" 
+    affiliateLink: "https://expedia.com/affiliates/patong-hotels-on-the-rocks-villaprivate-poolstunning-ocean-views.GCViPqC" 
   },
   {
     id: 165,
@@ -2328,28 +2328,28 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/antibes-hotels-luxury-villa-antibes-bastide-saint-louis.2AVYKVG" 
   },
   {
-    id: 195, //link broken
-    name: "Villa vue Mer Ramatuelle",
+    id: 195, 
+    name: "Villa 'À 200m De La Plage' with Sea View, Wi-Fi and Air Conditioning",
     location: "French Riviera, France",
-    price: "From ~ $8500/night",
+    price: "From ~ $5100/night",
     rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/96000000/95420000/95410600/95410509/8a9e2567.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Villa in Ramatuelle",
-    amenities: ["WiFi", "Washer", "Dryer", "Air conditioning", "Pet friendly", "Iron/ironing board", "Heating"],
+    image: "https://images.trvl-media.com/lodging/104000000/103040000/103034300/103034280/9a833cff.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Spacious sea-view villa in Sainte-Maxime with pool, spa, garden, and just 200m from the beach.",
+    amenities: ["Free WiFi", "Private Pool", "Hot Tub", "Kitchen", "Children's Toys", "Pet Friendly", "Fireplace"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/ramatuelle-hotels-villa-vue-mer-ramatuelle.sExMXPI" 
+    affiliateLink: "https://expedia.com/affiliates/sainte-maxime-hotels-villa-a-200m-de-la-plage-with-private-pool.bA54LbC" 
   },
   {
-    id: 196, //link broken
-    name: "Pet-Friendly Villa Ryx close to the Beach with Pool & Wi-Fi",
+    id: 196,
+    name: "Breathtaking luxurious villa with sea-view in Théoule sur Mer",
     location: "French Riviera, France",
-    price: "From ~ $7500/night",
-    rating: "9.4/10",
-    image: "https://images.trvl-media.com/lodging/84000000/83040000/83034400/83034368/a66724e3.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Pet-friendly 8-bedroom villa in Grimaud with sea views, private pool, terraces, air conditioning, Wi-Fi, and steps from the beach.",
-    amenities: ["WiFi", "Pool", "Parking", "Kitchen", "Washer", "Barbecue Grill", "Air Conditioning"],
+    price: "From ~ $4000/night",
+    rating: "9.8/10",
+    image: "https://images.trvl-media.com/lodging/54000000/53860000/53856300/53856206/3b575a06.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Stunning multi-level villa in Théoule-sur-Mer with sea views, rooftop pool, and luxurious terraces overlooking the Esterel coast.",
+    amenities: ["WiFi", "Private Pool", "Kitchen", "Washer", "Air Conditioning", "On the Beach", "Parking Available"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/grimaud-hotels-pet-friendly-villa-ryx-close-to-the-beach-with-pool-wi-fi.KdzmCWh" 
+    affiliateLink: "https://expedia.com/affiliates/theoule-sur-mer-hotels-bnb-renting-breathtaking-luxurious-villa-with-sea-view-in-theoule-sur-mer.kBTpGdw" 
   },
   {
     id: 197,
@@ -2532,16 +2532,16 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/paris-hotels-mandarin-oriental.vpw0IUq" 
   },
   {
-    id: 212,
-    name: "Villa vue Mer Ramatuelle",
-    location: "St. Tropez, France",
-    price: "From ~ $8500/night",
-    rating: "9.4/10",
-    image: "https://images.trvl-media.com/lodging/96000000/95420000/95410600/95410509/48de3c95.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Villa in Ramatuelle",
-    amenities: ["WiFi", "Washer", "Dryer", "Air Conditioning", "Pet Friendly", "Laundry Facilities", "Iron/Ironing Board"],
+    id: 212, 
+    name: "Studio Mezzanin - Le Petit atelier d'art",
+    location: "Cogolin, France",
+    price: "From ~ $250/night",
+    rating: "9/10",
+    image: "https://images.trvl-media.com/lodging/116000000/115020000/115016000/115015913/5d824af3.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Vacation home in Cogolin, a short walk to Port of Grimaud",
+    amenities: ["WiFi", "Washer", "Dryer", "Heating", "Smoke Detector", "No Smoking", "Hair Dryer"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/ramatuelle-hotels-villa-vue-mer-ramatuelle.HiJSdQ6" 
+    affiliateLink: "https://expedia.com/affiliates/cogolin-hotels-vrbo-property.8BnSX8p" 
   },
   {
     id: 213,
@@ -3913,15 +3913,15 @@ const villas = [
   },
   {
     id: 327,
-    name: "4-bedroom villa in welcoming Alaçatı with AC, WiFi. Enjoy your stay",
+    name: "Two Stone Villas With Magnificent Private Pools in Cesme",
     location: "Cesme, Turkey",
-    price: "From ~ $340/night",
+    price: "From ~ $2700/night",
     rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/116000000/115450000/115445700/115445677/ce1d71f6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Cozy 4-bedroom villa in Alaçatı with a private pool, air conditioning, WiFi, and convenient parking for a comfortable stay.",
-    amenities: ["WiFi", "Air Conditioning", "Washer", "Pet Friendly", "Heating", "Hair Dryer", "Smoke Detector"],
+    image: "https://images.trvl-media.com/lodging/105000000/104210000/104209300/104209276/55bbf521.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Two charming stone villas in Cesme with private pools, sea views, and stunning sunsets in a peaceful hilltop setting.",
+    amenities: ["WiFi", "Private Pool", "Kitchen", "Pet Friendly", "Children's Toys", "Fireplace", "Air Conditioning"],
     region: "Europe",
-    affiliateLink: "https://expedia.com/affiliates/cesme-hotels-4-bedroom-villa-in-welcoming-alacat-with-ac.mKdkiKq" 
+    affiliateLink: "https://expedia.com/affiliates/cesme-hotels-two-stone-villas-with-magnificent-private-pools-in-cesme.HQDxnc9" 
   },
   {
     id: 328,
@@ -3949,15 +3949,15 @@ const villas = [
   },
   {
     id: 330,
-    name: "Hutchinson Villa",
+    name: "Le Jardin Villa",
     location: "Cape Town, South Africa",
-    price: "From ~ $1200/night",
-    rating: "8/10",
-    image: "https://images.trvl-media.com/lodging/70000000/69370000/69363200/69363131/7e0ef57a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Luxurious Camps Bay villa with stunning ocean and mountain views, private pool, jacuzzi, gym, and spacious living areas perfect for families and friends.",
-    amenities: ["WiFi", "Air Conditioning", "Pool", "Kitchen", "Parking", "Fireplace", "Washer"],
+    price: "From ~ $1300/night",
+    rating: "9/10",
+    image: "https://images.trvl-media.com/lodging/16000000/15860000/15856900/15856898/b4bf4ef6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Family-friendly villa with bars and an outdoor pool",
+    amenities: ["Free WiFi", "Private Pool", "Air Conditioning", "Playground", "Fireplace", "Free Parking", "Games"],
     region: "Africa",
-    affiliateLink: "https://expedia.com/affiliates/cape-town-hotels-hutchinson-villa.Iu7R334" 
+    affiliateLink: "https://expedia.com/affiliates/cape-town-hotels-le-jardin.jhwJtkx" 
   },
   {
     id: 331,
@@ -4188,7 +4188,7 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/the-valley-hotels-your-own-private-resort-estate.np1atKN" 
   },
   {
-    id: 350, //wrong link
+    id: 350, 
     name: "Sheriva Luxury Villas and Suites",
     location: "Shoal Bay, Anguilla",
     price: "From ~ $5700/night",
@@ -4197,7 +4197,7 @@ const villas = [
     description: "Family-friendly villa with 5 outdoor pools and a 24-hour fitness center",
     amenities: ["WiFi", "Air Conditioning", "Pool", "Parking", "Gym", "Kitchen", "Laundry"],
     region: "Caribbean",
-    affiliateLink: "https://expedia.com/affiliates/chiang-mai-hotels-the-one-villa-is-a-high-quality-villa-within-reach-of-chiang-mai.x8xF5iI" 
+    affiliateLink: "https://expedia.com/affiliates/west-end-village-hotels-sheriva-luxury-villas-and-suites.WAfg9hA" 
   },
   {
     id: 351,
@@ -4212,16 +4212,16 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/island-harbour-hotels-lovely-6-bedroom-villa-with-pool.XABy6EA" 
   },
   {
-    id: 352,
-    name: "Spacious 5-bedroom villa in enchanting Cap Estate, St Lucia with infinity pool",
+    id: 352, 
+    name: "Paris Villas Cap Estate",
     location: "Rodney Bay, St. Lucia",
-    price: "From ~ $1700/night",
+    price: "From ~ $800/night",
     rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/118000000/117470000/117467500/117467425/370c1c96.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Luxury 5-bedroom villa in Cap Estate, St. Lucia with infinity pool, yoga deck, gym, ocean views, and concierge services.",
-    amenities: ["WiFi", "Air Conditioning", "Pool", "Parking", "Kitchen", "Laundry", "Pet Friendly"],
+    image: "https://images.trvl-media.com/lodging/100000000/99740000/99736100/99736060/a7dbc24b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Villas in Gros Islet with private pools and kitchens",
+    amenities: ["Free WiFi", "Private Pool", "Kitchen", "Air Conditioning", "High Chair", "Barbecue Grill", "Parking Included"],
     region: "Caribbean",
-    affiliateLink: "https://expedia.com/affiliates/gros-islet-hotels-spacious-5-bedroom-villa-in-enchanting-cap-estate.yYEx642" 
+    affiliateLink: "https://expedia.com/affiliates/paris-villas-cap-estate.NtocAbq" 
   },
   {
     id: 353,
@@ -5724,40 +5724,40 @@ const villas = [
     affiliateLink: "https://expedia.com/affiliates/watamu-hotels-vrbo-property.a5SzHgE" 
   },
   {
-    id: 478,
-    name: "Villa savanah Watamu",
+    id: 478, 
+    name: "Beach road villa",
+    location: "Watamu, Kenya",
+    price: "From ~ $700/night",
+    rating: "10/10",
+    image: "https://images.trvl-media.com/lodging/91000000/90720000/90712200/90712122/285d2b12.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Amazing 6 bedrooms beach villa!",
+    amenities: ["Free WiFi", "Private Pool", "Kitchen", "Children's Toys", "Free Breakfast", "Air Conditioning", "Playground"],
+    region: "Africa",
+    affiliateLink: "https://expedia.com/affiliates/watamu-hotels-beach-road-villa.EEYWW0f" 
+  },
+  {
+    id: 479, 
+    name: "RockHouse Apartment at Sun Palm",
     location: "Watamu, Kenya",
     price: "From ~ $500/night",
     rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/43000000/42310000/42303200/42303175/a4d0354b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Cozy Watamu villa with pool, kitchen, WiFi, and private entrance—ideal for long stays.",
-    amenities: ["WiFi", "Air Conditioning", "Private Pool", "Parking", "Microwave", "TV", "No Pets Allowed"],
+    image: "https://images.trvl-media.com/lodging/101000000/100710000/100709100/100709090/3f7e48ae.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "RockHouse Apartment at Sun Palm",
+    amenities: ["WiFi", "Air Conditioning", "Washer", "Laundry Facilities", "5 Bathrooms", "Towels Provided", "No Pets Allowed"],
     region: "Africa",
-    affiliateLink: "https://expedia.com/affiliates/watamu-hotels-villa-savanah-watamu.nApYSp9" 
+    affiliateLink: "https://expedia.com/affiliates/watamu-hotels-rockhouse-apartment-at-sun-palm.xsVPkl6" 
   },
   {
-    id: 479,
-    name: "Ndovu house Watamu",
+    id: 480, 
+    name: "Amani Beachfront Villa by YourHost",
     location: "Watamu, Kenya",
     price: "From ~ $600/night",
     rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/43000000/42310000/42303000/42302982/8a45d86a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Ndovu House Watamu: Air-conditioned villa with pool, kitchen, WiFi, workspace, and private entrance.",
-    amenities: ["WiFi", "Air Conditioning", "Private Pool", "Parking", "Washer", "Microwave", "TV"],
+    image: "https://images.trvl-media.com/lodging/108000000/107090000/107088400/107088393/cdf4146e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    description: "Beachside villa to enjoy outdoor pool and white sand beach",
+    amenities: ["Free WiFi", "Private Beach", "Outdoor Pool", "Kitchen", "Air Conditioning", "Spa Services", "Parking Included"],
     region: "Africa",
-    affiliateLink: "https://expedia.com/affiliates/watamu-hotels-ndovu-house-watamu.HytK1MC" 
-  },
-  {
-    id: 480,
-    name: "Watamu Beach Villa",
-    location: "Watamu, Kenya",
-    price: "From ~ $900/night",
-    rating: "10/10",
-    image: "https://images.trvl-media.com/lodging/43000000/42310000/42300400/42300302/f31772c0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    description: "Watamu Beach Villa: 8-bedroom beachfront villa with pool, verandas, 24/7 security, and optional cook, steps from the beach.",
-    amenities: ["WiFi", "Air Conditioning", "Private Pool", "Parking", "Pet Friendly", "Barbecue Grill", "Beach View"],
-    region: "Africa",
-    affiliateLink: "https://expedia.com/affiliates/watamu-hotels-watamu-beach-villa.MFY6Nmt" 
+    affiliateLink: "https://expedia.com/affiliates/watamu-hotels-amani-beachfront-villa-by-yourhost.A2U91qZ" 
   },
   {
     id: 481,
